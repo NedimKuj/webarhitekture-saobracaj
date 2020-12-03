@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- 
+      webarhitekture.nedkuj.com 
+      127.0.0.2
+    -->
+  <base href="http://127.0.0.2/">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand" href="#">SAobraćaj.ba</a>
+      <i class="navbar-toggler fa fa-bars" onclick="openNav()"></i>
+      <!-- The standard menu -->
+      <div class="collapse navbar-collapse">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item"><a class="nav-link" href="">Početna</a></li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Cestovni</a>
+            <ul class="dropdown-menu dropdown-menu-right">
+              <li><a class="dropdown-item" href="cestovni/infrastruktura">Infrastruktura</a></li>
+              <li><a class="dropdown-item dropdown-toggle">Javni gradski saobraćaj</a>
+                <ul class="submenu submenu-right dropdown-menu">
+                  <li><a class="dropdown-item" href="cestovni/jgs/autobuski">Autobuski</a></li>
+                  <li><a class="dropdown-item" href="cestovni/jgs/minibuski">Minibuski</a></li>
+                  <li><a class="dropdown-item" href="cestovni/jgs/tramvajski">Tramvajski</a></li>
+                  <li><a class="dropdown-item" href="cestovni/jgs/trolejbuski">Trolejbuski</a></li>
+                  <li><a class="dropdown-item" href="cestovni/jgs/taxi">Taxi</a></li>
+                </ul>
+              </li>
+              <li><a class="dropdown-item" href="cestovni/parking">Parking</a></li>
+            </ul>
+          </li>
+          <li class="nav-item"><a class="nav-link" href="zracni">Zračni</a></li>
+          <li class="nav-item"><a class="nav-link" href="zeljeznicki">Željeznički</a></li>
+        </ul>
+      </div>
+
+      <!-- The overlay menu-->
+      <div id="myNav" class="overlay">
+        <!-- Button to close the overlay navigation -->
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <!-- Overlay content -->
+        <div class="overlay-content">
+          <a href="">Početna</a>
+          <a id="cestovni-menuitem" data-toggle="collapse" href="#cestovni-menu" role="button" aria-expanded="true"
+            aria-controls="cestovni-menu">Cestovni</a>
+          <div class="collapse" id="cestovni-menu" style="background-color: #cacaca; ">
+            <a href="cestovni/infrastruktura">Infrastruktura</a>
+            <a id="jgs-menuitem" data-toggle="collapse" href="#jgs-menu" role="button" aria-expanded="true"
+              aria-controls="jgs-menu">JGS</a>
+            <div class="collapse" id="jgs-menu" style="background-color: #bababa; ">
+              <a href="cestovni/jgs/autobuski">Autobuski</a>
+              <a href="cestovni/jgs/minibuski">Minibuski</a>
+              <a href="cestovni/jgs/tramvajski">Tramvajski</a>
+              <a href="cestovni/jgs/trolejbuski">Trolejbuski</a>
+              <a href="cestovni/jgs/taxi">Taxi</a>
+            </div>
+            <a href="cestovni/parking">Parking</a>
+          </div>
+          <a href="zracni">Zračni</a>
+          <a href="zeljeznicki">Željeznički</a>
+        </div>
+
+      </div>
+    </div>
+  </nav>
+
+  <!-- Overlay menu scripts -->
+  <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+  <script src="js/nav.js"></script>
+
+  <!-- Regular menu scripts -->
+  <script type="text/javascript">
+
+  </script>
+</body>
+
+</html>

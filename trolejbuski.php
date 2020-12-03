@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Trolejbuski saobraćaj - SAobraćaj.ba</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="/css/nav-style.css">
+
+    <!-- Material Design Bootstrap CSS -->
+    <link rel="stylesheet" href="/css/mdb.min.css">
+
+</head>
+
+<body id="page-top">
+
+    <!-- Navigation -->
+    <?php include "common/navbar.html"; ?>
+
+
+    <header class="bg-primary text-white">
+        <div class="container text-center">
+            <h1>Trolejbuski saobraćaj</h1>
+        </div>
+    </header>
+
+    <div class="container" style="padding: 32px;">
+        <div id="accordion">
+
+            <div class="card">
+                <div class="card-header" id="naslov101">
+                    <h5 class="mb-0">
+                        <button class="btn btn-link" data-toggle="collapse" data-target="#trgaustrije-otoka"
+                            aria-expanded="true" aria-controls="trgaustrije-otoka">
+                            Trg Austrije – Otoka (101)
+                        </button>
+                    </h5>
+                </div>
+
+                <div id="trgaustrije-otoka" class="collapse" aria-labelledby="naslov101" data-parent="#accordion">
+                    <div class="card-body">
+                        <p>Ruta: Trg Austrije – Drvenija – Cobanija – Skenderija – Marijin Dvor – Grbavica – Stadion Grbavica – Azize Sacirbegovica – Hrasno – Antuna Branka Simica – Otoka</p>
+
+                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (Centrotrans)</a><br>
+                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header" id="naslov102">
+                    <h5 class="mb-0">
+                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#otoka–jezero"
+                            aria-expanded="false" aria-controls="otoka–jezero">
+                            Otoka – Jezero (102)
+                        </button>
+                    </h5>
+                </div>
+                <div id="otoka–jezero" class="collapse" aria-labelledby="naslov102" data-parent="#accordion">
+                    <div class="card-body">
+                        <p>Ruta: Otoka – Antuna Branka Simica – Hrasno – Azize Sacirbegovica – Stadion Grbavica – Grbavica – Marijin Dvor – Skenderija – Hamza Hume – Kino Radnik – Alipasina – Pijaca – Stadion – Jezero</p>
+                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (Centrotrans)</a><br>
+                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header" id="naslov103">
+                    <h5 class="mb-0">
+                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#trgaustrije–dobrinja"
+                            aria-expanded="false" aria-controls="trgaustrije–dobrinja">
+                            Trg Austrije – Dobrinja (103)
+                        </button>
+                    </h5>
+                </div>
+                <div id="trgaustrije–dobrinja" class="collapse" aria-labelledby="naslov103" data-parent="#accordion">
+                    <div class="card-body">
+                        <p>Ruta: Trg Austrije – Drvenija – Cobanija – Skenderija – Marijin Dvor – Grbavica – Stadion Grbavica – Azize Sacirbegovica – Hrasno I – Aneks – Svrakino Selo II – Svrakino Selo I – Alipasino Polje – Mojmilo – Mojmilo II – Dobrinja IV – Dobrinja (Skola) – Trafo – Dobrinja </p>
+                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (Centrotrans)</a><br>
+                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header" id="naslov104">
+                    <h5 class="mb-0">
+                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#trgaustrije–alipasinopolje"
+                            aria-expanded="false" aria-controls="trgaustrije–alipasinopolje">
+                            Trg Austrije – Alipasino Polje (104)
+                        </button>
+                    </h5>
+                </div>
+                <div id="trgaustrije–alipasinopolje" class="collapse" aria-labelledby="naslov104" data-parent="#accordion">
+                    <div class="card-body">
+                        <p>Ruta: Trg Austrije – Drvenija – Cobanija – Skenderija – Marijin Dvor – Grbavica – Stadion Grbavica – Azize Sacirbegovica – Hrasno I – Aneks – Svrakino Selo II – Svrakino Selo I – Alipasino Polje</p>
+                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (Centrotrans)</a><br>
+                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header" id="naslov107">
+                    <h5 class="mb-0">
+                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#dobrinja-jezero"
+                            aria-expanded="false" aria-controls="dobrinja-jezero">
+                            Dobrinja – Jezero (107)
+                        </button>
+                    </h5>
+                </div>
+                <div id="dobrinja-jezero" class="collapse" aria-labelledby="naslov107" data-parent="#accordion">
+                    <div class="card-body">
+                        <p>Ruta: Dobrinja – Trafo – Dobrinja (Skola) – Dobrinja IV – Mojmilo II – Alipasino Polje – Svrakino Selo I – Svrakino Selo II – Aneks – Hrasno I – Azize Sacirbegovic – Stadion Grbavica -  Grbavica – Marijin Dvor – Skenderija -Hamza Hume – Kino Radnik – Alipasina – Pijaca – Stadion – Jezero </p>
+                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (Centrotrans)</a><br>
+                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header" id="naslov108">
+                    <h5 class="mb-0">
+                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#otoka-dobrinja"
+                            aria-expanded="false" aria-controls="otoka-dobrinja">
+                            Otoka – Dobrinja (108)
+                        </button>
+                    </h5>
+                </div>
+                <div id="otoka-dobrinja" class="collapse" aria-labelledby="naslov108" data-parent="#accordion">
+                    <div class="card-body">
+                        <p>Ruta: Otoka – Antuna Branka Simica – Hrasno – Azize Sacirbegovic – Hrasno I – Aneks – Svrakino Selo II -  Svrakino Selo I – Alipasino Polje – Mojmilo – Mojmilo II – Dobrinja V – Dobrinja (Skola) – Trafo – Dobrinja </p>
+                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (Centrotrans)</a><br>
+                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
+                    </div>
+                </div>
+            </div>
+
+
+
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <?php include "common/footer.html"; ?>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="/js/mdb.min.js"></script>
+
+    <!-- Custom JavaScript for this theme -->
+
+</body>
+
+</html>

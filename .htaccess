@@ -1,0 +1,20 @@
+RewriteEngine On
+
+# Removing .php extension from files
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+# Handling the errors
+ErrorDocument 404 /common/404.html
+
+# Beautifying the urls 
+RewriteRule ^pocetna index.php [QSA,L]
+RewriteRule ^cestovni/jgs/autobuski autobuski.php [QSA,L]
+RewriteRule ^cestovni/jgs/minibuski minibuski.php [QSA,L]
+RewriteRule ^cestovni/jgs/tramvajski tramvajski.php [QSA,L]
+RewriteRule ^cestovni/jgs/trolejbuski trolejbuski.php [QSA,L]
+RewriteRule ^cestovni/jgs/taxi taxi.php [QSA,L]
+RewriteRule ^cestovni/infrastruktura infrastruktura.php [QSA,L]
+RewriteRule ^cestovni/parking parking.php [QSA,L]
+RewriteRule ^zeljeznicki zeljeznicki.php [QSA,L]
+RewriteRule ^zracni zracni.php [QSA,L]
