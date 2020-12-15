@@ -1,3 +1,4 @@
+/* To be deleted or moved to global styles*/
 header {
   padding: 156px 0 100px;
 }
@@ -6,8 +7,12 @@ section {
   padding: 150px 0;
 }
 
-/* The menu stuff */
-/* The Overlay (background) */
+/* Regular (desktop) navigation */
+nav {
+  background-color: #172a38;
+}
+
+/* The Overlay menu*/
 .overlay {
     /* Height & width depends on how you want to reveal the overlay (see JS below) */   
     height: 100%;
@@ -16,8 +21,8 @@ section {
     z-index: 1; /* Sit on top */
     left: 0;
     top: 0;
-    background-color: rgb(0,0,0); /* Black fallback color */
-    background-color: rgba(0,0,0, 0.9); /* Black w/opacity */
+    background-color: rgb(0, 0, 0); /* Black fallback color */
+    background-color: rgba(0, 0, 0, 0.9); /* Black w/opacity */
     overflow-x: hidden; /* Disable horizontal scroll */
     transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
   }
@@ -36,14 +41,14 @@ section {
     padding: 8px;
     text-decoration: none;
     font-size: 36px;
-    color: #818181;
+    color: #f4ce9e;
     display: block; /* Display block instead of inline */
     transition: 0.3s; /* Transition effects on hover (color) */
   }
   
   /* When you mouse over the navigation links, change their color */
   .overlay a:hover, .overlay a:focus {
-    color: #f1f1f1;
+    color: #b8b4b2;
   }
   
   /* Position the close button (top right corner) */
@@ -94,7 +99,7 @@ section {
     }
 
     .dropdown-menu>li:hover {
-      background-color: #f1f1f1
+      background-color: #f4ce9e
     }
 
     .dropdown-menu>li:hover>.submenu {

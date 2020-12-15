@@ -52,8 +52,7 @@
             <div class="tm-welcome-left">
               <h2 class="tm-welcome-title">Dobro došli na našu stranicu !</h2>
               <p class="pb-0">
-                Na našoj stranici možete naći sve ono što je potrebno da znate o saobraćaju u Sarajevu. Za svaki vid
-                saobraćaja imamo sve potrebe informacije. Uživajte !</p>
+                Na našoj stranici možete pronaći sve potrebne informacije vezane za saobraćaj u najljepšem gradu. Uživajte !  !</p>
             </div>
           </div>
           <!-- Brown bg -->
@@ -61,7 +60,7 @@
             <div class="tm-welcome-right">
               <i class="fas fa-4x fa-address-card p-3 tm-welcome-icon"></i>
               <p class="mb-0">
-                Novosti
+                Stanje na putevima
               </p>
             </div>
           </div>
