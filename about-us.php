@@ -14,7 +14,6 @@
 
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="/css/nav-style.css">
-    <link rel="stylesheet" href="/css/aboutus-style.css">
 
     <!-- Material Design Bootstrap CSS -->
     <link rel="stylesheet" href="/css/mdb.min.css">
@@ -26,18 +25,111 @@
     <!-- Navigation -->
     <?php include "common/navbar.html"; ?>
 
+    <header class="bg-primary text-white">
+        <div class="container text-center">
+            <h1>O našem timu</h1>
+            <p>Koji će se riješiti ove plave trakice i učiniti sve estetski prihvatljivijim</p>
+        </div>
+    </header>
+
 
     <!-- Content -->
-    <div class="box">
-        <img src="/files/images/tim.png" alt="" class="box-img">
-        <h1>O nama</h1>
-        <p>Neki tekst o nama i nasem timu treba smisliti</p>
-        <ul>
-            <li><a href="#" class="fa fa-facebook"></a></li>
-            <li><a href="#" class="fa fa-instagram"></a></li>
-            <li><a href="#" class="fa fa-twitter"></a></li>
-            <li><a href="#" class="fa fa-google-plus"></a></li>
-        </ul>
+    <br>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card">
+                    <img class="card-img-top" src="/files/images/emoji-sad.png">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Nedim Kujraković</h5>
+                        <p class="card-text">Vođa grupe, na papiru</p>
+                        <div class="d-flex justify-content-center">
+                            <a href=""><i class="fab fa-facebook fa-2x social"></i></a>
+                            <a href=""><i class="fab fa-twitter fa-2x social"></i></a>
+                            <a href=""><i class="fab fa-instagram fa-2x social"></i></a>
+                            <a href=""><i class="fa fa-envelope fa-2x social"></i></a>
+                            <a href=""><i class="fas fa-phone fa-2x social"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <br>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <img class="card-img-top" src="/files/images/emoji-sad.png">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Medina Krupalija</h5>
+                        <p class="card-text">Vođa grupe, u realnosti</p>
+                        <div class="d-flex justify-content-center">
+                            <a href=""><i class="fab fa-facebook fa-2x social"></i></a>
+                            <a href=""><i class="fab fa-twitter fa-2x social"></i></a>
+                            <a href=""><i class="fab fa-instagram fa-2x social"></i></a>
+                            <a href=""><i class="fa fa-envelope fa-2x social"></i></a>
+                            <a href=""><i class="fas fa-phone fa-2x social"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <br>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <img class="card-img-top" src="/files/images/emoji-sad.png">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Nejra Tabaković</h5>
+                        <p class="card-text">Vođa smjera</p>
+                        <div class="d-flex justify-content-center">
+                            <a href=""><i class="fab fa-facebook fa-2x social"></i></a>
+                            <a href=""><i class="fab fa-twitter fa-2x social"></i></a>
+                            <a href=""><i class="fab fa-instagram fa-2x social"></i></a>
+                            <a href=""><i class="fa fa-envelope fa-2x social"></i></a>
+                            <a href=""><i class="fas fa-phone fa-2x social"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <br>
+            </div>
+        </div>
+
+        <div class="row justify-content-md-center">
+            <div class="col-md-4">
+                <div class="card">
+                    <img class="card-img-top" src="/files/images/emoji-sad.png">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Dženan Sporišević</h5>
+                        <p class="card-text">Šta ono mi radimo?</p>
+                        <div class="d-flex justify-content-center">
+                            <a href=""><i class="fab fa-facebook fa-2x social"></i></a>
+                            <a href=""><i class="fab fa-twitter fa-2x social"></i></a>
+                            <a href=""><i class="fab fa-instagram fa-2x social"></i></a>
+                            <a href=""><i class="fa fa-envelope fa-2x social"></i></a>
+                            <a href=""><i class="fas fa-phone fa-2x social"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <br>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <img class="card-img-top" src="/files/images/emoji-sad.png">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Ademir Hrustemović</h5>
+                        <p class="card-text">...</p>
+                        <p class="card-text">(šuti jer zna s kakvim je budalama u grupi)</p>
+                        <div class="d-flex justify-content-center">
+                            <a href=""><i class="fab fa-facebook fa-2x social"></i></a>
+                            <a href=""><i class="fab fa-twitter fa-2x social"></i></a>
+                            <a href=""><i class="fab fa-instagram fa-2x social"></i></a>
+                            <a href=""><i class="fa fa-envelope fa-2x social"></i></a>
+                            <a href=""><i class="fas fa-phone fa-2x social"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <br>
+            </div>
+        </div>
     </div>
 
     <!-- Footer -->

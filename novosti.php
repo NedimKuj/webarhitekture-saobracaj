@@ -14,7 +14,7 @@
 
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="/css/nav-style.css">
-    <link rel="stylesheet" href="/css/novost-style.css">
+    <link rel="stylesheet" href="/css/novosti-style.css">
 
     <!-- Material Design Bootstrap CSS -->
     <link rel="stylesheet" href="/css/mdb.min.css">
@@ -44,7 +44,7 @@
                         <h5 class="card-title">Dogovorene konkretne aktivnosti u vezi projektovanja vogošćanske dionice Prve transverzale</h5>
                         <p class="card-text">11.12.2020. godine</p>
                         <p class="card-text">Na inicijativu načelnika Općine Vogošća Edina Smajića, danas je održan tematski sastanak koordinacionog tijela za gradnju Prve transverzale, pod kopredsjedavanjem premijera Kantona Sarajevo Marija Nenadića i ministra saobraćaja KS Adija Kalema.</p>
-                        <a href="https://ms.ks.gov.ba/aktuelno/novosti-sa-vlade/dogovorene-konkretne-aktivnosti-u-vezi-projektovanja-vogoscanske-dionice-prve-transverzale" class="btn btn-primary" target="_new">MS KS</a>
+                        <a href="https://ms.ks.gov.ba/aktuelno/novosti-sa-vlade/dogovorene-konkretne-aktivnosti-u-vezi-projektovanja-vogoscanske-dionice-prve-transverzale" class="btn btn-primary btn-custom" target="_new">MS KS</a>
                     </div>
                 </div>
                 <br>
