@@ -9,6 +9,8 @@ ErrorDocument 404 /common/404.html
 
 # Beautifying the urls 
 RewriteRule ^pocetna index.php [QSA,L]
+RewriteRule ^novosti novosti.php [QSA,L]
+RewriteRule ^o-nama about-us.php [QSA,L]
 RewriteRule ^cestovni/jgs/autobuski autobuski.php [QSA,L]
 RewriteRule ^cestovni/jgs/minibuski minibuski.php [QSA,L]
 RewriteRule ^cestovni/jgs/tramvajski tramvajski.php [QSA,L]

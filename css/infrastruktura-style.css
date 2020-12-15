@@ -1,0 +1,114 @@
+*
+body {
+    background-color: rgb(231, 231, 171);
+}
+
+.header{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-image: url("/files/images/saobracaj2.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-transform: uppercase;
+    font-size: 40px;
+    clip-path: polygon(20% 0%, 80% 0%, 100% 0, 100% 90%, 87% 100%, 13% 100%, 0 90%, 0 0);
+}
+
+.historijski-razvoj{
+    padding-top: 125px;
+    padding-bottom: 125px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+}
+
+.historijski-razvoj h2{
+    text-align: center;
+}
+
+.transverzala{
+    padding-top: 125px;
+    padding-bottom: 125px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+}
+
+
+
+.atrakcije{
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
+
+
+.atrakcije h2{
+    text-align: center;
+    font-size: 34px;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+
+
+
+.atrakcije .service-item {
+    background-color: rgb(37, 33, 33);
+    -webkit-box-shadow: 11px 0px 28px 1px rgba(0,0,0,0.74); 
+    box-shadow: 11px 0px 28px 1px rgba(0,0,0,0.74);
+    color: wheat;
+    text-align: center;
+    padding-bottom: 35px;
+    transition: 0.2s;
+    margin-top: 35px;
+    clip-path: polygon(0% 15%, 15% 0%, 85% 0%, 100% 15%, 100% 85%, 85% 100%, 15% 100%, 0% 85%);
+
+}
+
+.atrakcije .service-item:hover {
+    background-color: rgb(26, 66, 141);
+    cursor: pointer;
+    margin-top: -5px;
+}
+
+
+.atrakcije .service-item a{
+    color: white;
+    text-align: center;
+    display: inline-block;
+    border: 2px solid white;
+    padding: 5px;
+}
+
+.atrakcije .service-item h4{
+    margin-top: 5px;
+}
+
+.atrakcije h4{
+    margin-top: 30px;
+}
+.atrakcije ul{
+    font-size: 20px;
+}
+
+.zicara{
+    font-size: 20px;
+    padding-top: 125px;
+    padding-bottom: 125px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-image: url("/files/images/zicara.jpg");
+    background-size: cover;
+    background-position: center;
+    color: black;
+}
+
+.zicara .tekst{
+    border: solid white;
+    display: inline-block;
+    font-weight: 500;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+}
