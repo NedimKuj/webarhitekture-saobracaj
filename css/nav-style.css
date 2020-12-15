@@ -12,6 +12,14 @@ nav {
   background-color: #172a38;
 }
 
+nav li a, .navbar-brand, .navbar-brand:hover {
+  color: #f4ce9e;
+}
+
+nav li a:hover {
+  color: #fff
+}
+
 /* The Overlay menu*/
 .overlay {
     /* Height & width depends on how you want to reveal the overlay (see JS below) */   
