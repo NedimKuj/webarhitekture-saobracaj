@@ -25,12 +25,25 @@
     <!-- Navigation -->
     <?php include "common/navbar.html"; ?>
 
-
-    <header class="bg-primary text-white">
+    <header class="bg-primary text-white" style="background-image: url('/files/images/tramvajski.jpg'); background-size:cover">
         <div class="container text-center">
-            <h1>Tramvajski saobraćaj</h1>
+            <h1>Tramvajski saobracaj</h1>
         </div>
     </header>
+
+    <div class="historijski-razvoj">
+        <div class="col-lg-8 mx-auto">
+            <h2>Historijski razvoj tramvajskog saobracaja u Sarajevu</h2>
+                <p>Prvi tramvaj kog su vukli konji prošao je Sarajevom 1. januara 1885. godine. Jednosmjerna trasa je bila duga 3,1 km, a pruga je počinjala od današnjeg Ekonomskog fakulteta, pružala se Ferhadijom i dalje glavnom gradskom ulicom (današnjom Titovom) preko Marindvora i završavala na Uzanoj željezničkoj stanici.  Tramvaj je mogao povesti 28 osoba. 1. maja 1895. godine je elektriziran. Ujedno je trasa tramvaja proširena, te je od željezničke stanice na Pofalićima, koja se tada nalazila kod današnjeg hotela Bristol, pa do Latinske ćuprije. 
+                </p>
+        </div>
+    </div>
+    
+    <div class="tramvajskelinije">
+        <div class="col-lg-8 mx-auto">
+            <h2>Mreža tramvajskog sobraćaja sastoji se od 27 stanica, sa ukupno šest linija:</h2>
+        </div>
+    </div>
 
     <div class="container" style="padding: 32px;">
         <div id="accordion">
@@ -39,7 +52,7 @@
                 <div class="card-header" id="naslov1">
                     <h5 class="mb-0">
                         <button class="btn btn-link" data-toggle="collapse" data-target="#bascarsija-zeljeznickastanica" aria-expanded="true" aria-controls="bascarsija-zeljeznickastanica">
-                            Bascarsija – Zeljeznicka Stanica (1)
+                            Bascarsija – Zeljeznicka Stanica 
                         </button>
                     </h5>
                 </div>
@@ -48,7 +61,7 @@
                     <div class="card-body">
                         <p>Ruta: Bascarsija – Katedrala – Banka – Park – Marijin Dvor – Muzeji – Tehnicka Skola – Zeljeznicka Stanica </p>
 
-                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
+                        <a href="/files/linije/bascarsija-zeljeznickastanica.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
                     </div>
                 </div>
             </div>
@@ -57,7 +70,7 @@
                 <div class="card-header" id="naslov2">
                     <h5 class="mb-0">
                         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#bascarsija-cengicvila" aria-expanded="false" aria-controls="bascarsija-cengicvila">
-                            Bascarsija – Cengic Vila (2)
+                            Bascarsija – Cengic Vila 
                         </button>
                     </h5>
                 </div>
@@ -65,7 +78,7 @@
                     <div class="card-body">
                         <p>Ruta: Bascarsija – Katedrala – Banka – Park – Marijin Dvor – Muzeji – Univerzitet – Pofalici – Socijalno – Dolac Malta – Cengic Vila</p>
 
-                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
+                        <a href="/files/linije/bascarsija-cengicvila.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
                     </div>
                 </div>
             </div>
@@ -74,7 +87,7 @@
                 <div class="card-header" id="naslov3">
                     <h5 class="mb-0">
                         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#bascarsija-ilidza" aria-expanded="false" aria-controls="bascarsija-ilidza">
-                            Bascarsija – Ilidza (3)
+                            Bascarsija – Ilidza 
                         </button>
                     </h5>
                 </div>
@@ -82,7 +95,7 @@
                     <div class="card-body">
                         <p>Ruta: Bascarsija – Katedrala – Banka – Park – Marijin Dvor – Muzeji – Univerzitet – Pofalici – Socijalno – Dolac Malta – Cengic Vila – Otoka – Alipasin Most – Nedzarici – Avaz/Oslobodjenje – Stup – Energoinvest – Kasindolska – Ilidza</p>
 
-                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
+                        <a href="/files/linije/bascarsija-ilidza.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
                     </div>
                 </div>
             </div>
@@ -91,7 +104,7 @@
                 <div class="card-header" id="naslov4">
                     <h5 class="mb-0">
                         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#zeljeznickastanica-ilidza" aria-expanded="false" aria-controls="zeljeznickastanica-ilidza">
-                            Zeljeznicka stanica – Ilidza (4)
+                            Zeljeznicka stanica – Ilidza
                         </button>
                     </h5>
                 </div>
@@ -99,7 +112,7 @@
                     <div class="card-body">
                         <p>Ruta: Zeljeznicka stanica – Tehnicka Skola - Univerzitet – Pofalici – Socijalno – Dolac Malta – Cengic Vila – Otoka – Alipasin Most – Nedzarici – Avaz/Oslobodjenje – Stup – Energoinvest – Kasindolska – Ilidza</p>
 
-                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
+                        <a href="/files/linije/zeljeznickastanica-ilidza.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
                     </div>
                 </div>
             </div>
@@ -108,7 +121,7 @@
                 <div class="card-header" id="naslov5">
                     <h5 class="mb-0">
                         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#bascarsija-nedzarici" aria-expanded="false" aria-controls="bascarsija-nedzarici">
-                            Bascarsija – Nedzarici (5)
+                            Bascarsija – Nedzarici 
                         </button>
                     </h5>
                 </div>
@@ -116,7 +129,7 @@
                     <div class="card-body">
                         <p>Ruta: Bascarsija – Katedrala – Banka – Park – Marijin Dvor – Muzeji – Univerzitet – Pofalici – Socijalno – Dolac Malta – Cengic Vila – Otoka – Alipasin Most – Nedzarici</p>
 
-                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
+                        <a href="/files/linije/bascarsija-nedzarici.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
                     </div>
                 </div>
             </div>
@@ -125,7 +138,7 @@
                 <div class="card-header" id="naslov6">
                     <h5 class="mb-0">
                         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#skenderija-ilidza" aria-expanded="false" aria-controls="skenderija-ilidza">
-                            Skenderija – Ilidza (6)
+                            Skenderija – Ilidza 
                         </button>
                     </h5>
                 </div>
@@ -133,7 +146,7 @@
                     <div class="card-body">
                         <p>Ruta: Hamza Hume – Marijin Dvor – Muzeji – Univerzitet - Pofalici – Socijalno – Dolac Malta – Cengic Vila – Otoka – Alipasin Most – Nedzarici – Avaz/Oslobodjenje – Stup – Energoinvest – Kasindolska – Ilidza</p>
 
-                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
+                        <a href="/files/linije/skenderija-ilidza.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
                     </div>
                 </div>
             </div>

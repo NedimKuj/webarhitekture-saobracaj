@@ -26,11 +26,25 @@
     <?php include "common/navbar.html"; ?>
 
 
-    <header class="bg-primary text-white">
+    <header class="bg-primary text-white" style="background-image: url('/files/images/taxi.jpg'); background-size:cover">
         <div class="container text-center">
-            <h1>Taxi saobraćaj</h1>
+            <h1>TAXI</h1>
         </div>
     </header>
+
+    <div class="historijski-razvoj">
+        <div class="col-lg-8 mx-auto">
+            <h2>Historijat</h2>
+                <p>Početkom 17. stoljeća na ulicama Pariza i Londona saobraćale su kočije koje su vukli konji a koje su se mogle iznajmiti za prevoz ulicama ovih gradova. U 19. stoljeću u ovim gradovima su kraljevskim ukazima određena i prva pravila taksi službe koja su zahtjevala unaprijeđenje dizajna radi povećanja sigurnosti i brzine prevoza. Vremenom su kočije sa konjima zamijenili automobili koji su kroz prošlost postajali udobniji, sigurniji i brži način prijevoza putnika. Današnji automobili namjenjeni taksi službi su klimatizirani i opremljeni najsavremenijom opremom koja garantuje udoban prevoz.
+                </p>
+        </div>
+    </div>
+    
+    <div class="taxilinije">
+        <div class="col-lg-8 mx-auto">
+            <h2>Evidencija Taxi prijevoznika registrovanih u Ministrastvu saobraćaja Kantona Sarajevo:</h2>
+        </div>
+    </div>
 
     <div class="container" style="padding: 32px;">
         <div id="accordion">

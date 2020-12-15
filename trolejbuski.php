@@ -26,11 +26,18 @@
     <?php include "common/navbar.html"; ?>
 
 
-    <header class="bg-primary text-white">
+    <header class="bg-primary text-white" style="background-image: url('/files/images/trolejbuski.jpg'); background-size:cover">
         <div class="container text-center">
-            <h1>Trolejbuski saobraćaj</h1>
+            <h1>Trolejbuski saobracaj</h1>
         </div>
     </header>
+    
+    <div class="Trolejbuskelinije">
+        <div class="col-lg-8 mx-auto">
+            <h2>Mreža trolejbuskog sobraćaja sastoji se od 30 stanica, sa ukupno šest linija:</h2>
+            <p>Trolejbuska mreža u Sarajevu je otvorena 1984. godine, čime je upotpunila, pored tramvajske mreže gradski promet u gradu.</p>
+        </div>
+    </div>
 
     <div class="container" style="padding: 32px;">
         <div id="accordion">
@@ -40,7 +47,7 @@
                     <h5 class="mb-0">
                         <button class="btn btn-link" data-toggle="collapse" data-target="#trgaustrije-otoka"
                             aria-expanded="true" aria-controls="trgaustrije-otoka">
-                            Trg Austrije – Otoka (101)
+                            Trg Austrije – Otoka 
                         </button>
                     </h5>
                 </div>
@@ -49,8 +56,8 @@
                     <div class="card-body">
                         <p>Ruta: Trg Austrije – Drvenija – Cobanija – Skenderija – Marijin Dvor – Grbavica – Stadion Grbavica – Azize Sacirbegovica – Hrasno – Antuna Branka Simica – Otoka</p>
 
-                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (Centrotrans)</a><br>
-                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
+                        <a href="/files/linije/otoka-trgaustrije.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
+                        
                     </div>
                 </div>
             </div>
@@ -60,15 +67,15 @@
                     <h5 class="mb-0">
                         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#otoka–jezero"
                             aria-expanded="false" aria-controls="otoka–jezero">
-                            Otoka – Jezero (102)
+                            Otoka – Jezero 
                         </button>
                     </h5>
                 </div>
                 <div id="otoka–jezero" class="collapse" aria-labelledby="naslov102" data-parent="#accordion">
                     <div class="card-body">
                         <p>Ruta: Otoka – Antuna Branka Simica – Hrasno – Azize Sacirbegovica – Stadion Grbavica – Grbavica – Marijin Dvor – Skenderija – Hamza Hume – Kino Radnik – Alipasina – Pijaca – Stadion – Jezero</p>
-                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (Centrotrans)</a><br>
-                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
+                        <a href="/files/linije/otoka-jezero.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
+                       
                     </div>
                 </div>
             </div>
@@ -78,15 +85,15 @@
                     <h5 class="mb-0">
                         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#trgaustrije–dobrinja"
                             aria-expanded="false" aria-controls="trgaustrije–dobrinja">
-                            Trg Austrije – Dobrinja (103)
+                            Trg Austrije – Dobrinja 
                         </button>
                     </h5>
                 </div>
                 <div id="trgaustrije–dobrinja" class="collapse" aria-labelledby="naslov103" data-parent="#accordion">
                     <div class="card-body">
                         <p>Ruta: Trg Austrije – Drvenija – Cobanija – Skenderija – Marijin Dvor – Grbavica – Stadion Grbavica – Azize Sacirbegovica – Hrasno I – Aneks – Svrakino Selo II – Svrakino Selo I – Alipasino Polje – Mojmilo – Mojmilo II – Dobrinja IV – Dobrinja (Skola) – Trafo – Dobrinja </p>
-                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (Centrotrans)</a><br>
-                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
+                        <a href="/files/linije/dobrinja-trgaustrije.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
+                        
                     </div>
                 </div>
             </div>
@@ -96,15 +103,15 @@
                     <h5 class="mb-0">
                         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#trgaustrije–alipasinopolje"
                             aria-expanded="false" aria-controls="trgaustrije–alipasinopolje">
-                            Trg Austrije – Alipasino Polje (104)
+                            Trg Austrije – Alipasino Polje 
                         </button>
                     </h5>
                 </div>
                 <div id="trgaustrije–alipasinopolje" class="collapse" aria-labelledby="naslov104" data-parent="#accordion">
                     <div class="card-body">
                         <p>Ruta: Trg Austrije – Drvenija – Cobanija – Skenderija – Marijin Dvor – Grbavica – Stadion Grbavica – Azize Sacirbegovica – Hrasno I – Aneks – Svrakino Selo II – Svrakino Selo I – Alipasino Polje</p>
-                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (Centrotrans)</a><br>
-                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
+                        <a href="/files/linije/alipasinopolje-trgaustrije.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
+                        
                     </div>
                 </div>
             </div>
@@ -114,15 +121,15 @@
                     <h5 class="mb-0">
                         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#dobrinja-jezero"
                             aria-expanded="false" aria-controls="dobrinja-jezero">
-                            Dobrinja – Jezero (107)
+                            Dobrinja – Jezero 
                         </button>
                     </h5>
                 </div>
                 <div id="dobrinja-jezero" class="collapse" aria-labelledby="naslov107" data-parent="#accordion">
                     <div class="card-body">
                         <p>Ruta: Dobrinja – Trafo – Dobrinja (Skola) – Dobrinja IV – Mojmilo II – Alipasino Polje – Svrakino Selo I – Svrakino Selo II – Aneks – Hrasno I – Azize Sacirbegovic – Stadion Grbavica -  Grbavica – Marijin Dvor – Skenderija -Hamza Hume – Kino Radnik – Alipasina – Pijaca – Stadion – Jezero </p>
-                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (Centrotrans)</a><br>
-                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
+                        <a href="/files/linije/dobrinja-jezero.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
+                        
                     </div>
                 </div>
             </div>
@@ -132,15 +139,15 @@
                     <h5 class="mb-0">
                         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#otoka-dobrinja"
                             aria-expanded="false" aria-controls="otoka-dobrinja">
-                            Otoka – Dobrinja (108)
+                            Otoka – Dobrinja 
                         </button>
                     </h5>
                 </div>
                 <div id="otoka-dobrinja" class="collapse" aria-labelledby="naslov108" data-parent="#accordion">
                     <div class="card-body">
                         <p>Ruta: Otoka – Antuna Branka Simica – Hrasno – Azize Sacirbegovic – Hrasno I – Aneks – Svrakino Selo II -  Svrakino Selo I – Alipasino Polje – Mojmilo – Mojmilo II – Dobrinja V – Dobrinja (Skola) – Trafo – Dobrinja </p>
-                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (Centrotrans)</a><br>
-                        <a href=""><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
+                        <a href="/files/linije/otoka-dobrinja.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
+                        
                     </div>
                 </div>
             </div>
