@@ -58,9 +58,9 @@
           <!-- Brown bg -->
           <div class="col-md-5">
             <div class="tm-welcome-right">
-              <i class="fas fa-4x fa-address-card p-3 tm-welcome-icon"></i>
+              <a href="novosti"><i class="fas fa-4x fa-address-card p-3 tm-welcome-icon"></i></a>
               <p class="mb-0">
-                Stanje na putevima
+                 Novosti
               </p>
             </div>
           </div>

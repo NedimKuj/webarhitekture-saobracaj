@@ -3,6 +3,10 @@ header {
   padding: 156px 0 100px;
 }
 
+body {
+  background-color: #f4ce9e;
+}
+
 section {
   padding: 150px 0;
 }

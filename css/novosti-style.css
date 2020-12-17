@@ -1,3 +1,14 @@
-.btn-custom {
-    background-color: #2865a9;
+body {
+    background-color: #f4ce9e;
+    color: #172a38;
+}
+.card {
+    background-color: #172a38;
+    color: #f4ce9e;
+}
+.btn {
+    color:#f4ce9e;
+    text-align: center;
+    display: flex;
+    align-items: center;
 }
