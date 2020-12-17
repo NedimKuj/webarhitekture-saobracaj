@@ -27,58 +27,142 @@
     <?php include "common/navbar.html"; ?>
 
 
-    <header class="bg-primary text-white">
+    <header class="bg-primary text-white" style="background-image: url('/files/images/avion.jpg'); background-size:cover">
         <div class="container text-center">
             <h1>Zračni saobraćaj</h1>
         </div>
     </header>
 
+    <div class="historijski-razvoj">
+        <div class="col-lg-8 mx-auto">
+            <h2>Aerodrom Sarajevo</h2>
+                <p>Sarajevo kao glavni grad i sjedište velikog broja am­basada postaje zanimljiva de­stinacija za mnoge poznate aviokompanije. Profesionalan odnos Aerodroma Sarajevo prema djelatnosti koju obavljamo prepoznali su mnogi: Lufthansa, Austrian Airlines, Turkish Airlines, Adria Airways, Croatia Airlines, German Wings i druge kompanije, s kojima na obostrano zadovoljstvo godinama sarađujemo.
+
+                    Danas, sa oko 400 uposlenih i prometom većim od 600.000 putnika na godinu, s više od 7.000 aviooperacija, prijevozom više od dva miliona kilograma cargo roba, možemo reći da je stara legenda o ptici Feniks u našem slučaju postala stvarnost — uzdigli smo se iz ratnog pepela do tehnološkog operativnog maksimuma, kojem u zrakoplovstvu svi težimo.
+                </p>
+        </div>
+    </div>
+
     <div class="container">
-        <section id="content">
-            <div class="for_banners">
-                <div id="slider"> <img src="images/banner1.jpg" alt=""> <img src="images/banner2.jpg" alt=""> <img src="images/banner3.jpg" alt=""> </div>
-            </div>
-            <div class="wrapper pad1">
-                <article class="col1">
-                    <div class="box1">
-                        <h2 class="top">Ponuda sedmica Bosna i Hercegovina</h2>
-                        <div class="pad"> <strong>Iz Sarajeva</strong><br>
-                            <ul class="pad_bot1 list1">
-                                <li> <span class="right color1">Iz Sarajeva 149,00 KM</span> <a href="book2.html">Cirih</a> </li>
-                            </ul>
-                            <strong>Iz Sarajeva</strong><br>
-                            <ul class="pad_bot1 list1">
-                                <li> <span class="right color1">Iz Sarajeva 115,00 KM</span> <a href="book2.html">Bazel</a> </li>
-                                <li> <span class="right color1">Iz Sarajeva 214,00 KM</span> <a href="book2.html">�tokholm</a> </li>
-                            </ul>
-                            <strong>Iz Tuzle</strong><br>
-                            <ul class="pad_bot2 list1">
-                                <li> <span class="right color1">Iz Tuzle 350,00 KM</span> <a href="book2.html">Madrid</a> </li>
-                                <li> <span class="right color1">Iz Tuzle 279,00 KM</span> <a href="book2.html">Kopenhagen</a> </li>
-                                <li> <span class="right color1">Iz Tuzle 490,00 KM</span> <a href="book2.html">London</a> </li>
-                            </ul>
+
+        <table class="table table-striped table-dark">
+            <thead>
+                <tr>
+                    <th scope="col">Kompanija</th>
+                    <th scope="col">Polazište</th>
+                    <th scope="col">Odrediste</th>
+                    <th scope="col">Broj leta</th>
+                    <th scope="col">Planirano vrijeme slijetanja</th>
+                    <th scope="col">Planirano vrijeme polijetanja</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Pegasus</td>
+                    <td>Sarajevo</td>
+                    <td>Istanbul</td>
+                    <td>PC291</td>
+                    <td>15:10</td>
+                    <td>16:15</td>
+                </tr>
+                <tr>
+                    <td>Turkish Airlines</td>
+                    <td>Sarajevo</td>
+                    <td>Istanbul</td>
+                    <td>TK1023</td>
+                    <td>08:30</td>
+                    <td>10:30</td>
+                </tr>
+                <tr>
+                    <td>Fly Dubai</td>
+                    <td>Sarajevo</td>
+                    <td>Dubai</td>
+                    <td>1EK2232</td>
+                    <td>15:50</td>
+                    <td>16:50</td>
+                </tr>
+                <tr>
+                    <td>Croatia Airlines</td>
+                    <td>Sarajevo</td>
+                    <td>Zagreb</td>
+                    <td>OU344</td>
+                    <td>15:00</td>
+                    <td>15:30</td>
+                </tr>
+                <tr>
+                    <td>Auatrian Airlines</td>
+                    <td>Sarajevo</td>
+                    <td>Beč</td>
+                    <td>LH7340</td>
+                    <td>14:10</td>
+                    <td>15:10</td>
+                </tr>
+                <tr>
+                    <td>Wizz Air</td>
+                    <td>Sarajevo</td>
+                    <td>Budimpešta</td>
+                    <td>W62238</td>
+                    <td>14:10</td>
+                    <td>14:50</td>
+                </tr>
+                <tr>
+                    <td>Air Serbia</td>
+                    <td>Sarajevo</td>
+                    <td>Beograd</td>
+                    <td>JU112</td>
+                    <td>14:00</td>
+                    <td>14:30</td>
+                </tr>
+                <tr>
+                    <td>Lufthansa</td>
+                    <td>Sarajevo</td>
+                    <td>Minhen</td>
+                    <td>LH1740</td>
+                    <td>12:45</td>
+                    <td>13:25</td>
+                </tr>
+                <tr>
+                    <td>Norwegian.com</td>
+                    <td>Štokholm</td>
+                    <td>Sarajevo</td>
+                    <td>DY4344</td>
+                    <td>10:15</td>
+                    <td>10:55</td>
+                </tr>
+
+            </tbody>
+        </table>
+
+
+        <div class="atrakcije">
+            <h2>Najpopularnije turističke relacije:</h2>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="service-item">
+                            <img src="/files/images/istanbul.jpg" alt="">
+                            <h4>Sarajevo - Istanbul</h4>
+                            <p>Po cijeni od: 160,90 KM </p>
                         </div>
                     </div>
-                </article>
-                <article class="col2">
-                    <h3>O nasem poslovanju<span>Aerodrom Sarajevo</span></h3>
-                    <div class="wrapper">
-                        <article class="cols">
-                            <figure><img src="images/page1_img1.jpg" alt="" class="pad_bot2"></figure>
-                            <p class="pad_bot1"><strong>Uspjesno poslovanje</strong></p>
-                            <p>Sarajevo kao glavni grad i sjedište velikog broja ambasada postaje zanimljiva destinacija za mnoge poznate aviokompanije. Profesionalan odnos Aerodroma Sarajevo prema djelatnosti koju obavljamo prepoznali su mnogi: Lufthansa, Austrian Airlines, Turkish Airlines, Adria Airways, Croatia Airlines, German Wings i druge kompanije, s kojima na obostrano zadovoljstvo godinama saradujemo..</p>
-                        </article>
-                        <article class="cols pad_left1">
-                            <figure><img src="images/page1_img2.jpg" alt="" class="pad_bot2"></figure>
-                            <p class="pad_bot1"><strong>Historijski razvoj</strong></p>
-                            <p>Zracni putnicki promet na ovim prostorima pocinje još pred Drugi svjetski rat. Godine 1930. otvara se linija Beograd - Sarajevo - Podgorica. U upotrebi su manji putnicki zrakoplovi, a u tom periodu koristi se vojni aerodrom u Rajlovcu. Zracni civilni promet obavljalo je beogradsko zrakoplovno dru�tvo Aeroput sa zrakoplovima Potez 29 francuske proizvodnje.</p>
-                        </article>
+                    <div class="col-md-4">
+                        <div class="service-item">
+                            <img src="/files/images/budimpesta.jpg" alt="">
+                            <h4>Sarajevo - Budimpešta</h4>
+                            <p>Po cijeni od: 80KM</p>
+                        </div>
                     </div>
-                </article>
+                    <div class="col-md-4">
+                        <div class="service-item">
+                            <img src="/files/images/dubai.jpg" alt="">
+                            <h4> Sarajevo - Dubai</h4>
+                            <p>Po cijeni od: 995 KM</p>
+                        </div>
+                    </div>
+                </div>
             </div>
-        </section>
-        <!--content end-->
-    </div>
+
+        </div>
 
     <!-- Footer -->
     <?php include "common/footer.html"; ?>

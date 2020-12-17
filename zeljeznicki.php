@@ -33,6 +33,15 @@
         </div>
     </header>
 
+    <div class="historijski-razvoj">
+        <div class="col-lg-8 mx-auto">
+            <h2>Željeznice BIH</h2>
+                <p>Željeznički saobraćaj u Bosni i Hercegovini predstavlja značajan vid transporta koji datira još od polovine 19. vijeka. Prva željeznička pruga na području Bosne i Hercegovine puštena je u promet 24. decembra 1872. godine, na relaciji Dobrljin – Banja Luka. Rat u Bosni i Hercegovini je uticao na drastičan pad privrednih aktivnosti što se odrazilo na brojke o prevezenoj robi i broju putnika a devastirajući karakter rata se odrazio i na željezničku infrastrukturu.
+
+                Ukupna dužina željezničkih pruga iznosi 1031 km, od čega je u Federaciji BiH 608,495 km čemu treba dodati i industrijske kolosijeke do svakog značajnijeg proizvodnog kapaciteta. Ovo željezničkim operatorima daje mogućnost direktnog pristupa u preuzimanju i isporuci svih vrsta robe. <p>
+        </div>
+    </div>
+
     <div class="container">
 
         <table class="table table-striped table-dark">

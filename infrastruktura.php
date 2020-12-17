@@ -27,7 +27,8 @@
     <?php include "common/navbar.html"; ?>
 
 
-    <header class="bg-primary text-white">
+    
+    <header class="bg-primary text-white" style="background-image: url('/files/images/infrastruktura.jpg'); background-size:cover">
         <div class="container text-center">
             <h1>Infrastruktura cestovnog saobraćaja</h1>
         </div>
