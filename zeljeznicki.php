@@ -33,172 +33,171 @@
         </div>
     </header>
 
-    <div class="historijski-razvoj">
-        <div class="col-lg-8 mx-auto">
-            <h2>Željeznice BIH</h2>
-                <p>Željeznički saobraćaj u Bosni i Hercegovini predstavlja značajan vid transporta koji datira još od polovine 19. vijeka. Prva željeznička pruga na području Bosne i Hercegovine puštena je u promet 24. decembra 1872. godine, na relaciji Dobrljin – Banja Luka. Rat u Bosni i Hercegovini je uticao na drastičan pad privrednih aktivnosti što se odrazilo na brojke o prevezenoj robi i broju putnika a devastirajući karakter rata se odrazio i na željezničku infrastrukturu.
-
-                Ukupna dužina željezničkih pruga iznosi 1031 km, od čega je u Federaciji BiH 608,495 km čemu treba dodati i industrijske kolosijeke do svakog značajnijeg proizvodnog kapaciteta. Ovo željezničkim operatorima daje mogućnost direktnog pristupa u preuzimanju i isporuci svih vrsta robe. <p>
-        </div>
-    </div>
-
     <div class="container">
+        <h2>Željeznice BIH</h2>
+        <p>Željeznički saobraćaj u Bosni i Hercegovini predstavlja značajan vid transporta koji datira još od polovine 19. vijeka. Prva željeznička pruga na području Bosne i Hercegovine puštena je u promet 24. decembra 1872. godine, na relaciji Dobrljin – Banja Luka. Rat u Bosni i Hercegovini je uticao na drastičan pad privrednih aktivnosti što se odrazilo na brojke o prevezenoj robi i broju putnika a devastirajući karakter rata se odrazio i na željezničku infrastrukturu.
 
-        <table class="table table-striped table-dark">
-            <thead>
-                <tr>
-                    <th scope="col">Polazna stanica</th>
-                    <th scope="col">Dolazna stanica</th>
-                    <th scope="col">Vrijeme polaska</th>
-                    <th scope="col">Cijena redovne karte</th>
-                    <th scope="col">Cijena povratne karte</th>
-                    <th scope="col">Cijena karte za studnete</th>
-                    <th scope="col">Cijena povratne karte za studnete</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>Mostar</td>
-                    <td>Sarajevo</td>
-                    <td>06:45</td>
-                    <td>11,90 KM</td>
-                    <td>19,40 KM</td>
-                    <td>8,60 KM</td>
-                    <td>17,30 KM</td>
-                </tr>
-                <tr>
-                    <td>Mostar</td>
-                    <td>Sarajevo</td>
-                    <td>17:04</td>
-                    <td>11,90 KM</td>
-                    <td>19,40 KM</td>
-                    <td>8,60 KM</td>
-                    <td>17,30 KM</td>
-                </tr>
-                <tr>
-                    <td>Čapljina</td>
-                    <td>Sarajevo</td>
-                    <td>06:16</td>
-                    <td>14,30 KM</td>
-                    <td>22,30 KM</td>
-                    <td>10,30 KM</td>
-                    <td>20,70 KM</td>
-                </tr>
-                <tr>
-                    <td>Čapljina</td>
-                    <td>Sarajevo</td>
-                    <td>16:35</td>
-                    <td>14,30 KM</td>
-                    <td>22,30 KM</td>
-                    <td>10,30 KM</td>
-                    <td>20,70 KM</td>
-                </tr>
-                <tr>
-                    <td>Sarajevo</td>
-                    <td>Mostar</td>
-                    <td>07:07</td>
-                    <td>11,90 KM</td>
-                    <td>19,40 KM</td>
-                    <td>8,60 KM</td>
-                    <td>17,30 KM</td>
-                </tr>
-                <tr>
-                    <td>Sarajevo</td>
-                    <td>Mostar</td>
-                    <td>16:50</td>
-                    <td>11,90 KM</td>
-                    <td>19,40 KM</td>
-                    <td>8,60 KM</td>
-                    <td>17,30 KM</td>
-                </tr>
-                <tr>
-                    <td>Mostar</td>
-                    <td>Čapljina</td>
-                    <td>09:02</td>
-                    <td>5,40 KM</td>
-                    <td>9,00 KM</td>
-                    <td>4,00 KM</td>
-                    <td>8,00 KM</td>
-                </tr>
-                <tr>
-                    <td>Mostar</td>
-                    <td>Čapljina</td>
-                    <td>18:47</td>
-                    <td>5,40 KM</td>
-                    <td>9,00 KM</td>
-                    <td>4,00 KM</td>
-                    <td>8,00 KM</td>
-                </tr>
-                <tr>
-                    <td>Sarajevo</td>
-                    <td>Konjic</td>
-                    <td>16:49</td>
-                    <td>7,90 KM</td>
-                    <td>13,00 KM</td>
-                    <td>5,80 KM</td>
-                    <td>11,70 KM</td>
-                </tr>
-
-            </tbody>
-        </table>
+            Ukupna dužina željezničkih pruga iznosi 1031 km, od čega je u Federaciji BiH 608,495 km čemu treba dodati i industrijske kolosijeke do svakog značajnijeg proizvodnog kapaciteta. Ovo željezničkim operatorima daje mogućnost direktnog pristupa u preuzimanju i isporuci svih vrsta robe. <p>
 
 
-        <div class="atrakcije">
-            <h2>Najpopularnije turističke relacije:</h2>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-4">
-                        <div class="service-item">
-                            <img src="/files/images/zeljeznica-ruta1.png" alt="">
-                            <h4> Sarajevo - Mostar</h4>
-                            <p>Po cijeni od: 11,90 KM </p>
-                            <a href="#">Detaljnije informacije</a>
+                <table class="table table-striped table-dark">
+                    <thead>
+                        <tr>
+                            <th scope="col">Polazna stanica</th>
+                            <th scope="col">Dolazna stanica</th>
+                            <th scope="col">Vrijeme polaska</th>
+                            <th scope="col">Cijena redovne karte</th>
+                            <th scope="col">Cijena povratne karte</th>
+                            <th scope="col">Cijena karte za studnete</th>
+                            <th scope="col">Cijena povratne karte za studnete</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Mostar</td>
+                            <td>Sarajevo</td>
+                            <td>06:45</td>
+                            <td>11,90 KM</td>
+                            <td>19,40 KM</td>
+                            <td>8,60 KM</td>
+                            <td>17,30 KM</td>
+                        </tr>
+                        <tr>
+                            <td>Mostar</td>
+                            <td>Sarajevo</td>
+                            <td>17:04</td>
+                            <td>11,90 KM</td>
+                            <td>19,40 KM</td>
+                            <td>8,60 KM</td>
+                            <td>17,30 KM</td>
+                        </tr>
+                        <tr>
+                            <td>Čapljina</td>
+                            <td>Sarajevo</td>
+                            <td>06:16</td>
+                            <td>14,30 KM</td>
+                            <td>22,30 KM</td>
+                            <td>10,30 KM</td>
+                            <td>20,70 KM</td>
+                        </tr>
+                        <tr>
+                            <td>Čapljina</td>
+                            <td>Sarajevo</td>
+                            <td>16:35</td>
+                            <td>14,30 KM</td>
+                            <td>22,30 KM</td>
+                            <td>10,30 KM</td>
+                            <td>20,70 KM</td>
+                        </tr>
+                        <tr>
+                            <td>Sarajevo</td>
+                            <td>Mostar</td>
+                            <td>07:07</td>
+                            <td>11,90 KM</td>
+                            <td>19,40 KM</td>
+                            <td>8,60 KM</td>
+                            <td>17,30 KM</td>
+                        </tr>
+                        <tr>
+                            <td>Sarajevo</td>
+                            <td>Mostar</td>
+                            <td>16:50</td>
+                            <td>11,90 KM</td>
+                            <td>19,40 KM</td>
+                            <td>8,60 KM</td>
+                            <td>17,30 KM</td>
+                        </tr>
+                        <tr>
+                            <td>Mostar</td>
+                            <td>Čapljina</td>
+                            <td>09:02</td>
+                            <td>5,40 KM</td>
+                            <td>9,00 KM</td>
+                            <td>4,00 KM</td>
+                            <td>8,00 KM</td>
+                        </tr>
+                        <tr>
+                            <td>Mostar</td>
+                            <td>Čapljina</td>
+                            <td>18:47</td>
+                            <td>5,40 KM</td>
+                            <td>9,00 KM</td>
+                            <td>4,00 KM</td>
+                            <td>8,00 KM</td>
+                        </tr>
+                        <tr>
+                            <td>Sarajevo</td>
+                            <td>Konjic</td>
+                            <td>16:49</td>
+                            <td>7,90 KM</td>
+                            <td>13,00 KM</td>
+                            <td>5,80 KM</td>
+                            <td>11,70 KM</td>
+                        </tr>
+
+                    </tbody>
+                </table>
+
+
+                <div class="atrakcije">
+
+                    <h2>Najpopularnije turističke relacije:</h2>
+
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="service-item">
+                                    <img src="/files/images/service1.png" alt="">
+                                    <h4> Sarajevo - Mostar</h4>
+                                    <p>Po cijeni od: 11,90 KM </p>
+
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="service-item">
+                                    <img src="/files/images/service2.png" alt="">
+                                    <h4>Sarajevo - Čapljina</h4>
+                                    <p>Po cijeni od: 14,30 KM</p>
+
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="service-item">
+                                    <img src="/files/images/service3.png" alt="">
+                                    <h4> Čapljina - Sarajevo</h4>
+                                    <p>Po cijeni od: 14,30 KM</p>
+
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
-                        <div class="service-item">
-                            <img src="/files/images/zeljeznica-ruta2.png" alt="">
-                            <h4>Sarajevo - Čapljina</h4>
-                            <p>Po cijeni od: 14,30 KM</p>
-                            <a href="#">Detaljnije informacije</a>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="service-item">
-                            <img src="/files/images/zeljeznica-ruta3.png" alt="">
-                            <h4> Čapljina - Sarajevo</h4>
-                            <p>Po cijeni od: 14,30 KM</p>
-                            <a href="#">Detaljnije informacije</a>
+
+                </div>
+
+                <div class="atrakcije2">
+
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="service-item">
+                                    <img src="/files/images/service4.jpg" alt="">
+                                    <h4> Sarajevo - Konjic</h4>
+                                    <p>Po cijeni od: 11,90 KM </p>
+
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="service-item">
+                                    <img src="/files/images/service5.jpg" alt="">
+                                    <h4>Sarajevo - Jablanica</h4>
+                                    <p>Po cijeni od: 9,40 KM</p>
+
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-
-        </div>
-
-        <div class="atrakcije2">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-4">
-                        <div class="service-item">
-                            <img src="/files/images/zeljeznica-ruta4.jpg" alt="">
-                            <h4> Sarajevo - Konjic</h4>
-                            <p>Po cijeni od: 11,90 KM </p>
-                            <a href="#">Detaljnije informacije</a>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="service-item">
-                            <img src="/files/images/zeljeznica-ruta5.jpg" alt="">
-                            <h4>Sarajevo - Jablanica</h4>
-                            <p>Po cijeni od: 9,40 KM</p>
-                            <a href="#">Detaljnije informacije</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <br>
+                <br>
     </div>
 
     <!-- Footer -->

@@ -1,8 +1,11 @@
-header {
+.red-voznje {
     background-image: url("/files/images/redvoznje.jpg");
+    padding-top: 125px;
+    padding-bottom: 125px;
     background-size: cover;
     background-position: center;
 }
+  
 
 .red-voznje h1 {
     color: white;
@@ -65,25 +68,12 @@ header {
 }
 
 
-.atrakcije .service-item a{
-    color: white;
-    text-align: center;
-    display: inline-block;
-    border: 2px solid white;
-    padding: 5px;
-}
 
 .atrakcije .service-item h4{
     margin-top: 5px;
 }
 
-.atrakcije2 .service-item a{
-    color: white;
-    text-align: center;
-    display: inline-block;
-    border: 2px solid white;
-    padding: 5px;
-}
+
 
 .atrakcije2 .service-item {
     background-color: rgb(37, 33, 33);
@@ -175,3 +165,7 @@ table{
     background-color: white;
 
 }
+
+
+
+

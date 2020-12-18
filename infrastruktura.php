@@ -28,7 +28,7 @@
 
 
     
-    <header class="bg-primary text-white text-center" style="background-image: url('/files/images/infrastruktura.jpg'); background-size:cover">
+    <header class="bg-primary text-white text-center" style="background-image: url('/files/images/saobracaj2.jpg'); background-size:cover">
         <div class="container text-center">
             <h1>Infrastruktura cestovnog saobraćaja</h1>
         </div>
@@ -46,17 +46,19 @@
                     <li>Period Kraljevine Jugoslavije </li>
                     <li>Period nakon II svjetskog rata do 1992 god</li>
                     <li>Period agresije na BiH(od 1992-1995 god.)</li>
-                    <li>7.	poslijeratni period</li>
+                    <li>Poslijeratni period</li>
                 </ul>
         </div>
     </div>
 
     <div class="transverzala">
         <div class="col-lg-8 mx-auto">
-            <h2>Prva sarajevska transverzala</h2>
-            <p>Ova famozna cesta je jedna od 13 saobraćajnica u Sarajevu koje nose naziv "transverzala". To su saobraćajnice koje glavnu sarajevsku gradsku magistralu sijeku u pravcu sjever-jug. One se razlikuju po svojoj dužini i značaju, ali ih na okupu drži specifično brojčano imenovanje od nule do broja 12. Naprimjer, Nulta transverzala je najistočnija od ovih cesta i praktično najkraća dužine svega 500 metara, dok je najzapadnija 12. transverzala, koja se proteže od Dobrinje do Briješća, duga gotovo pet kilometara.</p>
-            <h2>Gdje prolazi ova transferzala?</h2>
-            <p>Počevši od raskrsnice između Američke ambasade i Srednje tehničke škole, široka cesta u profilu brze ceste sa tramvajskim pojasom (s po dvije trake u oba smjera) proteže se putanjom današnje saobraćajnice koja ide prema centru Penny. Dalje bi se saobraćajnica trebala pružati zelenim pojasom između Koševskog Brda i Velešića. Zeleni pojas uključuje zemljište ispod Pennyja, prolazi pokraj Bosnalijeka, a završava istočno od groblja Bare. Od te tačke pa do Kobilje Glave saobraćajnica će se pružati prvo dalje ka sjeveru pa zaokretom ka zapadu, iza Šipa, preuzima položaj zapad-istok i završava tunelom Kobilja Glava. Upravo se ovaj navedeni dio trenutno gradi. Nakon tunela Kobilja Glava Prva transverzala nastavlja ka zapadu južno od gusto naseljenog područja Hotonja i Vogošće, a uglavnom paralelno prateći postojeću cestu M18, a onda prelazeći južno od rijeke Jošanice povezujući se s Vogošćanskom petljom na području današnjeg zapadnog ulaza u Vogošću.</p>
+            <div class="tekst">
+                <h2>Prva sarajevska transverzala</h2>
+                <p>Ova famozna cesta je jedna od 13 saobraćajnica u Sarajevu koje nose naziv "transverzala". To su saobraćajnice koje glavnu sarajevsku gradsku magistralu sijeku u pravcu sjever-jug. One se razlikuju po svojoj dužini i značaju, ali ih na okupu drži specifično brojčano imenovanje od nule do broja 12. Naprimjer, Nulta transverzala je najistočnija od ovih cesta i praktično najkraća dužine svega 500 metara, dok je najzapadnija 12. transverzala, koja se proteže od Dobrinje do Briješća, duga gotovo pet kilometara.</p>
+                <h2>Gdje prolazi ova transferzala?</h2>
+                <p>Počevši od raskrsnice između Američke ambasade i Srednje tehničke škole, široka cesta u profilu brze ceste sa tramvajskim pojasom (s po dvije trake u oba smjera) proteže se putanjom današnje saobraćajnice koja ide prema centru Penny. Dalje bi se saobraćajnica trebala pružati zelenim pojasom između Koševskog Brda i Velešića. Zeleni pojas uključuje zemljište ispod Pennyja, prolazi pokraj Bosnalijeka, a završava istočno od groblja Bare. Od te tačke pa do Kobilje Glave saobraćajnica će se pružati prvo dalje ka sjeveru pa zaokretom ka zapadu, iza Šipa, preuzima položaj zapad-istok i završava tunelom Kobilja Glava. Upravo se ovaj navedeni dio trenutno gradi. Nakon tunela Kobilja Glava Prva transverzala nastavlja ka zapadu južno od gusto naseljenog područja Hotonja i Vogošće, a uglavnom paralelno prateći postojeću cestu M18, a onda prelazeći južno od rijeke Jošanice povezujući se s Vogošćanskom petljom na području današnjeg zapadnog ulaza u Vogošću.</p>
+            </div>
         </div>
     </div>
     
@@ -72,21 +74,21 @@
                     <div class="service-item">
                         <img src="/files/images/mostar.png" alt="">
                         <h4>Mostar</h4>
-                        <a href="">Detaljnije informacije</a>
+                        
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="service-item">
                         <img src="/files/images/banjaluka.png" alt="">
                         <h4>Banja Luka</h4>
-                        <a href="">Detaljnije informacije</a>
+                        
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="service-item">
                         <img src="/files/images/zenica.jpg" alt="">
                         <h4> Zenica</h4>
-                        <a href="">Detaljnije informacije</a>
+                        
                     </div>
                 </div>
             </div>
