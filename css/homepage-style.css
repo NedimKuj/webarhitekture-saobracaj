@@ -3,27 +3,6 @@ html {
   scroll-behavior: smooth;
 }
 
-/*
-body {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  
-  font-size: 20px;
-  font-weight:300px;
-  color: #172a38;
-  overflow-x: hidden;
-
-}*/
-
-/*
-a:hover {
-  text-decoration: none; -ne treba ni ovo
-}*/
-
-/*
-.container-fluid {
-  max-width: 1200px;
-} */
-
 /* ovo je za providni background  */
 .tm-bg-black-transparent {
   background-color: rgba(244, 206, 158, 0.5);
@@ -49,26 +28,29 @@ a:hover {
 } 
 
 
-.tm-brand-container-inner {
-  max-width: 580px;
-  width: 100%;
-} 
-
 .tm-brand-container {
-  padding: 75px 110px;
+  padding: 35px 110px;
 }
 
 .tm-brand-name {
   font-size: 3.8rem;
+  color: #172a38
 }
 
 .tm-brand-description {
   font-size: 1.4rem;
+  color: #172a38
 }
 
-.parallax-window {
-  min-height: 1100px;
-  background: transparent;
+.viewport-match{
+  min-height: 100vh;
+}
+
+.head-container{
+  background-color: rgba(244, 206, 158, 0.6);
+  padding-bottom: 32px;
+  padding-top: 32px;
+  margin-top: 30vh;
 }
 
 #tmContact {
@@ -76,7 +58,6 @@ a:hover {
 }
 
 .tm-welcome-container {
-  min-height: 400px;
   position: absolute;
   bottom: 0;
   left: 0;
@@ -86,7 +67,7 @@ a:hover {
 }
 
 .tm-welcome-title {
-  margin-bottom: 60px;
+  margin-bottom: 50px;
 }
 
 .tm-welcome-left {
@@ -95,7 +76,6 @@ a:hover {
   padding-top: 50px;
   padding-bottom: 30px;
   font-weight: bold;
-  
 }
 
 .tm-welcome-left-col {
@@ -105,30 +85,22 @@ a:hover {
 
 .tm-welcome-right {
   color:#172a38;
-  padding-right: 10px;
-  padding-top: 70px;
-  padding-bottom: 20px;
   font-weight: bold;
-  margin-bottom: 30px;
+  padding-right: 10px;
 }
 
 .tm-welcome-right-col {
   display: flex;
   align-items: center;
   text-align: center;
-
 }
 
-
-
 .tm-welcome-icon {
-  margin-bottom: 130px;
   display: block;
   text-align: center;
   display: flex;
   align-items: center;
   color: #172a38;
-
 }
 
 
@@ -141,16 +113,10 @@ a:hover {
 }
 
 .tm-contact-item {
-  width: 50%;
-  max-width: 500px;
-  height: auto;
-  min-height: 420px;
-  margin-right: 35px;
   background-color: #f4ce9e;
-  padding: 54px 34px 44px;
   color: #172a38;
-  text-align: center;
-  font-weight: bold;
+  margin: 12px;
+  padding: 24px;
 }
 
 .tm-contact-item:last-child {

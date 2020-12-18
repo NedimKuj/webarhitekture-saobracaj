@@ -13,8 +13,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
     <!-- Custom styles for this template -->
-    <link rel="stylesheet" href="/css/nav-style.css">
-    <link rel="stylesheet" href="/css/zracni-style.css">
+    <link rel="stylesheet" href="/css/global-styles.css">
 
     <!-- Material Design Bootstrap CSS -->
     <link rel="stylesheet" href="/css/mdb.min.css">
@@ -33,18 +32,16 @@
         </div>
     </header>
 
-    <div class="historijski-razvoj">
-        <div class="col-lg-8 mx-auto">
-            <h2>Aerodrom Sarajevo</h2>
-                <p>Sarajevo kao glavni grad i sjedište velikog broja am­basada postaje zanimljiva de­stinacija za mnoge poznate aviokompanije. Profesionalan odnos Aerodroma Sarajevo prema djelatnosti koju obavljamo prepoznali su mnogi: Lufthansa, Austrian Airlines, Turkish Airlines, Adria Airways, Croatia Airlines, German Wings i druge kompanije, s kojima na obostrano zadovoljstvo godinama sarađujemo.
+    <div class="container historijski-razvoj">
+        <br>
+        <h2 class="text-center">Aerodrom Sarajevo</h2><br>
+        <p>Sarajevo kao glavni grad i sjedište velikog broja am­basada postaje zanimljiva de­stinacija za mnoge poznate aviokompanije. Profesionalan odnos Aerodroma Sarajevo prema djelatnosti koju obavljamo prepoznali su mnogi: Lufthansa, Austrian Airlines, Turkish Airlines, Adria Airways, Croatia Airlines, German Wings i druge kompanije, s kojima na obostrano zadovoljstvo godinama sarađujemo.
 
-                    Danas, sa oko 400 uposlenih i prometom većim od 600.000 putnika na godinu, s više od 7.000 aviooperacija, prijevozom više od dva miliona kilograma cargo roba, možemo reći da je stara legenda o ptici Feniks u našem slučaju postala stvarnost — uzdigli smo se iz ratnog pepela do tehnološkog operativnog maksimuma, kojem u zrakoplovstvu svi težimo.
-                </p>
-        </div>
+            Danas, sa oko 400 uposlenih i prometom većim od 600.000 putnika na godinu, s više od 7.000 aviooperacija, prijevozom više od dva miliona kilograma cargo roba, možemo reći da je stara legenda o ptici Feniks u našem slučaju postala stvarnost — uzdigli smo se iz ratnog pepela do tehnološkog operativnog maksimuma, kojem u zrakoplovstvu svi težimo.
+        </p>
     </div>
 
     <div class="container">
-
         <table class="table table-striped table-dark">
             <thead>
                 <tr>
@@ -134,27 +131,27 @@
         </table>
 
 
-        <div class="atrakcije">
+        <div class="atrakcije text-center">
             <h2>Najpopularnije turističke relacije:</h2>
             <div class="container">
                 <div class="row">
                     <div class="col-md-4">
-                        <div class="service-item">
-                            <img src="/files/images/istanbul.jpg" alt="">
+                        <div>
+                            <img src="/files/images/istanbul.jpg" class="h-100 w-100">
                             <h4>Sarajevo - Istanbul</h4>
                             <p>Po cijeni od: 160,90 KM </p>
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="service-item">
-                            <img src="/files/images/budimpesta.jpg" alt="">
+                        <div>
+                            <img src="/files/images/budimpesta.jpg" class="h-100 w-100">
                             <h4>Sarajevo - Budimpešta</h4>
                             <p>Po cijeni od: 80KM</p>
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="service-item">
-                            <img src="/files/images/dubai.jpg" alt="">
+                        <div>
+                            <img src="/files/images/dubai.jpg" class="h-100 w-100">
                             <h4> Sarajevo - Dubai</h4>
                             <p>Po cijeni od: 995 KM</p>
                         </div>
@@ -163,6 +160,7 @@
             </div>
 
         </div>
+    </div>
 
     <!-- Footer -->
     <?php include "common/footer.html"; ?>

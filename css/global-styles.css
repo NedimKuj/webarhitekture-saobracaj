@@ -1,0 +1,16 @@
+header {
+    padding: 200px 0 100px;
+}
+
+header h1 {
+    padding: 8px;
+    background-color: rgba(23, 42, 56, 0.4);
+}
+
+body {
+    background-color: #f4ce9e;
+}
+
+section {
+    padding: 150px 0;
+}

@@ -1,28 +1,15 @@
-/* To be deleted or moved to global styles*/
-header {
-  padding: 156px 0 100px;
-}
-
-body {
-  background-color: #f4ce9e;
-}
-
-section {
-  padding: 150px 0;
-}
-
-/* Regular (desktop) navigation */
-nav {
-  background-color: #172a38;
-}
-
-nav li a, .navbar-brand, .navbar-brand:hover {
-  color: #f4ce9e;
-}
-
-nav li a:hover {
-  color: #fff
-}
+  /* Regular (desktop) navigation */
+  nav {
+    background-color: #172a38;
+  }
+  
+  nav li a, .navbar-brand, .navbar-brand:hover {
+    color: #f4ce9e;
+  }
+  
+  nav li a:hover {
+    color: #fff
+  }
 
 /* The Overlay menu*/
 .overlay {
