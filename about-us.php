@@ -14,6 +14,7 @@
 
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="/css/nav-style.css">
+    <link rel="stylesheet" href="/css/global-styles.css">
 
     <!-- Material Design Bootstrap CSS -->
     <link rel="stylesheet" href="/css/mdb.min.css">
@@ -42,6 +43,7 @@
                     <img class="card-img-top" src="/files/images/nedim.png">
                     <div class="card-body">
                         <h5 class="card-title text-center">Nedim Kujraković</h5>
+                        <p class="text-center">Vođa grupe (u teoriji)</p>
                         <p class="card-text">E-mail: nedim@nedkuj.com </p>
                         <p class="card-text">Phone: +38761288282  </p>
                         <div class="d-flex justify-content-center">
@@ -58,6 +60,7 @@
                     <img class="card-img-top" src="/files/images/medina.jpg">
                     <div class="card-body">
                         <h5 class="card-title text-center">Medina Krupalija</h5>
+                        <p class="text-center">Vođa grupe (u praksi)</p>
                         <p class="card-text">E-mail: medinakrupalija11@gmail.com</p>
                         <p class="card-text">Phone: +38762294309</p>
                         <div class="d-flex justify-content-center">
@@ -73,6 +76,7 @@
                     <img class="card-img-top" src="/files/images/nejra.jpg">
                     <div class="card-body">
                         <h5 class="card-title text-center">Nejra Tabaković</h5>
+                        <p class="text-center">Vođa smjera</p>
                         <p class="card-text">E-mail: nejra.t_98@hotmail.com</p>
                         <p class="card-text">Phone: +38762534454</p>
                         <div class="d-flex justify-content-center">
@@ -91,7 +95,8 @@
                     <img class="card-img-top" src="/files/images/dzenan.png">
                     <div class="card-body">
                         <h5 class="card-title text-center">Dženan Sporišević</h5>
-                        <p class="card-text">E-mail: </p>
+                        <p class="text-center">Visoki predstavnik</p>
+                        <p class="card-text">E-mail: spori2009@gmail.com</p>
                         <p class="card-text">Phone: +38762282923</p>
                         <div class="d-flex justify-content-center">
                             <a href="https://www.facebook.com/dzenan.sporisevic"><i class="fab fa-facebook fa-2x social"></i></a>
@@ -107,6 +112,7 @@
                     <img class="card-img-top" src="/files/images/ademir.png">
                     <div class="card-body">
                         <h5 class="card-title text-center">Ademir Hrustemović</h5>
+                        <p class="text-center">Ja ne poznajem ove ljude</p>
                         <p class="card-text">E-mail: hrustemovicademir@gmail.com</p>
                         <p class="card-text">Phone: +38761016003</p>
                         <div class="d-flex justify-content-center">

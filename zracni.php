@@ -43,6 +43,8 @@
 
     <div class="container">
         <table class="table table-striped table-dark">
+            <iframe src="https://www.radarbox24.com/?widget=1&amp;z=8&amp;lat=43.856316&amp;lng=17.9" width="100%" height="640px" frameborder="0"></iframe>
+            <br>
             <thead>
                 <tr>
                     <th scope="col">Kompanija</th>
