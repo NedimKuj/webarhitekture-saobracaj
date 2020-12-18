@@ -25,10 +25,10 @@
     <!-- Navigation -->
     <?php include "common/navbar.html"; ?>
 
-    <header class="bg-primary text-white">
+    <header class="bg-primary text-white" style="background-image: url('/files/images/upitnici.jpg'); background-size:cover">
         <div class="container text-center">
-            <h1>O našem timu</h1>
-            <p>Koji će se riješiti ove plave trakice i učiniti sve estetski prihvatljivijim</p>
+            <h1>Sada nešto o nama!</h1>
+            <p>Mi smo grupa studenata treće godine Fakulteta za saobraćaj i komunikacije, odsijeka Komunikacije, a smjera Kompjuterske i informacijske tehnologije. Ovo je naš seminarski rad iz predmeta Web arhitekture, a temu SAobraćaj smo odabrali iz razloga, što još uvijek ne postoji web stranica koja obuhvata sve vidove saobraćaja u Kantonu Sarajevo na jednom mjestu. Nadamo se da će ova stranica koristiti studentima, kao i to da ce nas profesor Omerašević Damir biti zadovoljan! </p>
         </div>
     </header>
 
@@ -39,16 +39,14 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="card">
-                    <img class="card-img-top" src="/files/images/emoji-sad.png">
+                    <img class="card-img-top" src="/files/images/nedim.png">
                     <div class="card-body">
                         <h5 class="card-title text-center">Nedim Kujraković</h5>
-                        <p class="card-text">Vođa grupe, na papiru</p>
+                        <p class="card-text">E-mail: nedim@nedkuj.com </p>
+                        <p class="card-text">Phone: +38761288282  </p>
                         <div class="d-flex justify-content-center">
-                            <a href=""><i class="fab fa-facebook fa-2x social"></i></a>
-                            <a href=""><i class="fab fa-twitter fa-2x social"></i></a>
-                            <a href=""><i class="fab fa-instagram fa-2x social"></i></a>
-                            <a href=""><i class="fa fa-envelope fa-2x social"></i></a>
-                            <a href=""><i class="fas fa-phone fa-2x social"></i></a>
+                            <a href="https://www.facebook.com/nedim.kujrakovic.13"><i class="fab fa-facebook fa-2x social"></i></a>
+                            <a href="https://www.instagram.com/nedkuj/"><i class="fab fa-instagram fa-2x social"></i></a>
                         </div>
                     </div>
                 </div>
@@ -57,16 +55,13 @@
 
             <div class="col-md-4">
                 <div class="card">
-                    <img class="card-img-top" src="/files/images/emoji-sad.png">
+                    <img class="card-img-top" src="/files/images/medina.jpg">
                     <div class="card-body">
                         <h5 class="card-title text-center">Medina Krupalija</h5>
-                        <p class="card-text">Vođa grupe, u realnosti</p>
+                        <p class="card-text">E-mail: medinakrupalija11@gmail.com</p>
+                        <p class="card-text">Phone: +38762294309</p>
                         <div class="d-flex justify-content-center">
-                            <a href=""><i class="fab fa-facebook fa-2x social"></i></a>
-                            <a href=""><i class="fab fa-twitter fa-2x social"></i></a>
-                            <a href=""><i class="fab fa-instagram fa-2x social"></i></a>
-                            <a href=""><i class="fa fa-envelope fa-2x social"></i></a>
-                            <a href=""><i class="fas fa-phone fa-2x social"></i></a>
+                            <a href="https://www.facebook.com/medina.villa7"><i class="fab fa-facebook fa-2x social"></i></a>
                         </div>
                     </div>
                 </div>
@@ -75,16 +70,14 @@
 
             <div class="col-md-4">
                 <div class="card">
-                    <img class="card-img-top" src="/files/images/emoji-sad.png">
+                    <img class="card-img-top" src="/files/images/nejra.jpg">
                     <div class="card-body">
                         <h5 class="card-title text-center">Nejra Tabaković</h5>
-                        <p class="card-text">Vođa smjera</p>
+                        <p class="card-text">E-mail: nejra.t_98@hotmail.com</p>
+                        <p class="card-text">Phone: +38762534454</p>
                         <div class="d-flex justify-content-center">
-                            <a href=""><i class="fab fa-facebook fa-2x social"></i></a>
-                            <a href=""><i class="fab fa-twitter fa-2x social"></i></a>
-                            <a href=""><i class="fab fa-instagram fa-2x social"></i></a>
-                            <a href=""><i class="fa fa-envelope fa-2x social"></i></a>
-                            <a href=""><i class="fas fa-phone fa-2x social"></i></a>
+                            <a href="https://www.facebook.com/nejra.tabakovic/"><i class="fab fa-facebook fa-2x social"></i></a>
+                            <a href="https://www.instagram.com/nejratab"><i class="fab fa-instagram fa-2x social"></i></a>  
                         </div>
                     </div>
                 </div>
@@ -95,16 +88,14 @@
         <div class="row justify-content-md-center">
             <div class="col-md-4">
                 <div class="card">
-                    <img class="card-img-top" src="/files/images/emoji-sad.png">
+                    <img class="card-img-top" src="/files/images/dzenan.png">
                     <div class="card-body">
                         <h5 class="card-title text-center">Dženan Sporišević</h5>
-                        <p class="card-text">Šta ono mi radimo?</p>
+                        <p class="card-text">E-mail: </p>
+                        <p class="card-text">Phone: +38762282923</p>
                         <div class="d-flex justify-content-center">
-                            <a href=""><i class="fab fa-facebook fa-2x social"></i></a>
-                            <a href=""><i class="fab fa-twitter fa-2x social"></i></a>
-                            <a href=""><i class="fab fa-instagram fa-2x social"></i></a>
-                            <a href=""><i class="fa fa-envelope fa-2x social"></i></a>
-                            <a href=""><i class="fas fa-phone fa-2x social"></i></a>
+                            <a href="https://www.facebook.com/dzenan.sporisevic"><i class="fab fa-facebook fa-2x social"></i></a>
+                            <a href="https://www.instagram.com/dzenansporisevic/"><i class="fab fa-instagram fa-2x social"></i></a>
                         </div>
                     </div>
                 </div>
@@ -113,17 +104,14 @@
 
             <div class="col-md-4">
                 <div class="card">
-                    <img class="card-img-top" src="/files/images/emoji-sad.png">
+                    <img class="card-img-top" src="/files/images/ademir.png">
                     <div class="card-body">
                         <h5 class="card-title text-center">Ademir Hrustemović</h5>
-                        <p class="card-text">...</p>
-                        <p class="card-text">(šuti jer zna s kakvim je budalama u grupi)</p>
+                        <p class="card-text">E-mail: hrustemovicademir@gmail.com</p>
+                        <p class="card-text">Phone: +38761016003</p>
                         <div class="d-flex justify-content-center">
-                            <a href=""><i class="fab fa-facebook fa-2x social"></i></a>
-                            <a href=""><i class="fab fa-twitter fa-2x social"></i></a>
-                            <a href=""><i class="fab fa-instagram fa-2x social"></i></a>
-                            <a href=""><i class="fa fa-envelope fa-2x social"></i></a>
-                            <a href=""><i class="fas fa-phone fa-2x social"></i></a>
+                            <a href="https://www.facebook.com/69573hrk"><i class="fab fa-facebook fa-2x social"></i></a>
+                            <a href="https://www.instagram.com/ademirh99/"><i class="fab fa-instagram fa-2x social"></i></a>
                         </div>
                     </div>
                 </div>
