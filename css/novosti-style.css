@@ -1,14 +1,15 @@
 body {
     background-color: #f4ce9e;
-    color: #172a38;
+    color: #cfd3d6;
 }
 .card {
     background-color: #172a38;
     color: #f4ce9e;
 }
+
 .btn {
-    color:#f4ce9e;
+    background-color:#f4ce9e;
+    color: #172a38;
     text-align: center;
     display: flex;
-    align-items: center;
 }

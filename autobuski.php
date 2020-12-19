@@ -14,6 +14,8 @@
 
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="/css/global-styles.css">
+    <link rel="stylesheet" href="/css/autobuski-style.css">
+
 
     <!-- Material Design Bootstrap CSS -->
     <link rel="stylesheet" href="/css/mdb.min.css">
@@ -58,8 +60,8 @@
                 <div class="card">
                     <div class="card-header" id="naslov14">
                         <h5 class="mb-0">
-                            <button class="btn btn-link" data-toggle="collapse" data-target="#domarmijepodhrastovi14" aria-expanded="true" aria-controls="domarmijepodhrastovi14">
-                                Dom Armija - Podhrastovi 
+                            <button class="btn  " data-toggle="collapse" data-target="#domarmijepodhrastovi14" aria-expanded="true" aria-controls="domarmijepodhrastovi14">
+                                <p class= "card-text" > Dom Armija - Podhrastovi </p>
                             </button>
                         </h5>
                     </div>
@@ -77,8 +79,8 @@
                 <div class="card">
                     <div class="card-header" id="naslov15b">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#otokabucapotok15b" aria-expanded="false" aria-controls="otokabucapotok15b">
-                                Otoka - Buća Potok 
+                            <button class="btn " data-toggle="collapse" data-target="#otokabucapotok15b" aria-expanded="false" aria-controls="otokabucapotok15b">
+                               <p class= "card-text" > Otoka - Buća Potok </p>
                             </button>
                         </h5>
                     </div>
@@ -95,8 +97,8 @@
                 <div class="card">
                     <div class="card-header" id="naslov16b">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#domarmijekosevskobrdo" aria-expanded="false" aria-controls="domarmijekosevskobrdo">
-                                Dom Armije - Koševsko Brdo 
+                            <button class="btn " data-toggle="collapse" data-target="#domarmijekosevskobrdo" aria-expanded="false" aria-controls="domarmijekosevskobrdo">
+                                <p class= "card-text" > Dom Armije - Koševsko Brdo </p>
                             </button>
                         </h5>
                     </div>
@@ -112,8 +114,8 @@
                 <div class="card">
                     <div class="card-header" id="naslov17b">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#domarmijebreka2" aria-expanded="false" aria-controls="domarmijebreka2">
-                                Dom Armije - Breka II 
+                            <button class="btn " data-toggle="collapse" data-target="#domarmijebreka2" aria-expanded="false" aria-controls="domarmijebreka2">
+                                <p class= "card-text" > Dom Armije - Breka II </p>
                             </button>
                         </h5>
                     </div>
@@ -130,8 +132,8 @@
                 <div class="card">
                     <div class="card-header" id="naslov20">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#parkjagomir" aria-expanded="false" aria-controls="parkjagomir">
-                                Park - Jagomir 
+                            <button class="btn " data-toggle="collapse" data-target="#parkjagomir" aria-expanded="false" aria-controls="parkjagomir">
+                               <p class= "card-text" > Park - Jagomir </p>
                             </button>
                         </h5>
                     </div>
@@ -148,16 +150,16 @@
                 <div class="card">
                     <div class="card-header" id="naslov21b">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#sutjeskadonjavogosca" aria-expanded="false" aria-controls="sutjeskadonjavogosca">
-                                Sutjeska - Donja Vogošća 
+                            <button class="btn " data-toggle="collapse" data-target="#sutjeskadonjavogosca" aria-expanded="false" aria-controls="sutjeskadonjavogosca">
+                               <p class= "card-text" > Sutjeska - Donja Vogošća </p>
                             </button>
                         </h5>
                     </div>
                     <div id="sutjeskadonjavogosca" class="collapse" aria-labelledby="naslov21b" data-parent="#accordion">
                         <div class="card-body">
-                            <p>Ruta: Sutjerska – Ciglane – Stadion Koševo – Bare – Šip – Kobilja Glava - Gornji
+                            <p>Ruta: Sutjeska – Ciglane – Stadion Koševo – Bare – Šip – Kobilja Glava - Gornji
                                 Hotonj – Donji Hotonj – Barice – Jošanica – Tas – Bikovo – Vogošća – Donja Jošanica
-                                – Željeznićka Stanica – Semizovac – Nebočaj – Donja Vogošća</p>
+                                – Željeznička stanica – Semizovac – Nebočaj – Donja Vogošća</p>
                             <a href="/files/linije/sutjeska_donjavogosca.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
                         </div>
                     </div>
@@ -166,8 +168,8 @@
                 <div class="card">
                     <div class="card-header" id="naslov22a">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#stupvogosca" aria-expanded="false" aria-controls="stupvogosca">
-                                Stup - Vogošća 
+                            <button class="btn " data-toggle="collapse" data-target="#stupvogosca" aria-expanded="false" aria-controls="stupvogosca">
+                               <p class= "card-text" > Stup - Vogošća </p>
                             </button>
                         </h5>
                     </div>
@@ -184,14 +186,14 @@
                 <div class="card">
                     <div class="card-header" id="naslov23a">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#zeljeznickarajlovacdom" aria-expanded="false" aria-controls="zeljeznickarajlovacdom">
-                                Željeznićka Stanica - Reljevo Dom 
+                            <button class="btn " data-toggle="collapse" data-target="#zeljeznickarajlovacdom" aria-expanded="false" aria-controls="zeljeznickarajlovacdom">
+                               <p class= "card-text" >Željeznička stanica - Reljevo Dom </p>
                             </button>
                         </h5>
                     </div>
                     <div id="zeljeznickarajlovacdom" class="collapse" aria-labelledby="naslov23a" data-parent="#accordion">
                         <div class="card-body">
-                            <p>Ruta: Željeznića stanica – Autobuska stanica – Fabrika Duhana Sarajevo – Drinska –
+                            <p>Ruta: Željeznička stanica – Autobuska stanica – Fabrika Duhana Sarajevo – Drinska –
                                 Nadvožnjak – Buća (Rampa) – Safeta Zajke – Dolačka – Klesar – Boljakov potok – Gr
                                 Bosna – Briješće I – Briješće – Kolonija – Rajlovac - Plinara – Distributivni Centar
                                 – Reljevo Dom</p>
@@ -204,8 +206,8 @@
                 <div class="card">
                     <div class="card-header" id="naslov24">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#stupzabrdje" aria-expanded="false" aria-controls="stupzabrdje">
-                                Stup - Zabrđe - Smiljevići 
+                            <button class="btn " data-toggle="collapse" data-target="#stupzabrdje" aria-expanded="false" aria-controls="stupzabrdje">
+                               <p class= "card-text" > Stup - Zabrđe - Smiljevići </p>
                             </button>
                         </h5>
                     </div>
@@ -222,14 +224,14 @@
                 <div class="card">
                     <div class="card-header" id="naslov27">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#ilidzahrasnica" aria-expanded="false" aria-controls="ilidzahrasnica">
-                                Ilidža - Hrasnica 
+                            <button class="btn " data-toggle="collapse" data-target="#ilidzahrasnica" aria-expanded="false" aria-controls="ilidzahrasnica">
+                               <p class= "card-text" >Ilidža - Hrasnica </p>
                             </button>
                         </h5>
                     </div>
                     <div id="ilidzahrasnica" class="collapse" aria-labelledby="naslov27" data-parent="#accordion">
                         <div class="card-body">
-                            <p>Ruta: Ilidža – Škola – Stadion – Koledž – Sokolovići – Cvječara – Hrasnica – Hrasnica
+                            <p>Ruta: Ilidža – Škola – Stadion – Koledž – Sokolovići – Cvjećara – Hrasnica – Hrasnica
                                 (Dom) – Obdanište – Famos - Famos Okretnica</p>
                             <a href="/files/linije/ilidza_hrasnica.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
                             
@@ -240,8 +242,8 @@
                 <div class="card">
                     <div class="card-header" id="naslov27a">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#ilidzasokolovickolonija" aria-expanded="false" aria-controls="ilidzasokolovickolonija">
-                                Ilidža - Sokolovi Kolonija 
+                            <button class="btn " data-toggle="collapse" data-target="#ilidzasokolovickolonija" aria-expanded="false" aria-controls="ilidzasokolovickolonija">
+                               <p class= "card-text" >Ilidža - Sokolović Kolonija </p>
                             </button>
                         </h5>
                     </div>
@@ -258,8 +260,8 @@
                 <div class="card">
                     <div class="card-header" id="naslov30">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#ilidzahadzici" aria-expanded="false" aria-controls="ilidzahadzici">
-                                Ilidža - Hadžići 
+                            <button class="btn " data-toggle="collapse" data-target="#ilidzahadzici" aria-expanded="false" aria-controls="ilidzahadzici">
+                                <p class= "card-text" >Ilidža - Hadžići </p>
                             </button>
                         </h5>
                     </div>
@@ -276,14 +278,14 @@
                 <div class="card">
                     <div class="card-header" id="naslov31e">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#vijecnicadobrinja" aria-expanded="false" aria-controls="vijecnicadobrinja">
-                                Vijećnica - Dobrinja 
+                            <button class="btn" data-toggle="collapse" data-target="#vijecnicadobrinja" aria-expanded="false" aria-controls="vijecnicadobrinja">
+                               <p class= "card-text" >Vijećnica - Dobrinja </p> 
                             </button>
                         </h5>
                     </div>
                     <div id="vijecnicadobrinja" class="collapse" aria-labelledby="naslov31e" data-parent="#accordion">
                         <div class="card-body">
-                            <p>Ruta: Vijećnica – Bašćarsija – Katedrala – Banka – Park – Marijin Dvor – Muzeji – Univerzitet
+                            <p>Ruta: Vijećnica – Baščarsija – Katedrala – Banka – Park – Marijin Dvor – Muzeji – Univerzitet
                                 – Pofalići – Socijalno – Dolac Malta – Čengić Vila – Otoka – Alipašin Most – RTV Dom –
                                 Neđarići – Vojničko Polje – X Transferzala – Dobrinja V – Dobrinja III – Dobrinja (Trafo) –
                                 Dobrinja</p>
@@ -296,14 +298,14 @@
                 <div class="card">
                     <div class="card-header" id="naslov33">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#ilidzatarcin" aria-expanded="false" aria-controls="ilidzatarcin">
-                                Ilidža - Tarčin - Vukovići 
+                            <button class="btn" data-toggle="collapse" data-target="#ilidzatarcin" aria-expanded="false" aria-controls="ilidzatarcin">
+                                <p class= "card-text" >Ilidža - Tarčin - Vukovići </p>
                             </button>
                         </h5>
                     </div>
                     <div id="ilidzatarcin" class="collapse" aria-labelledby="naslov33" data-parent="#accordion">
                         <div class="card-body">
-                            <p>Ruta: Ilidža – Vreoca – Plandiste – Vrelo Bosne – Sarajevo Putevi – Blžuj – Mostarsko
+                            <p>Ruta: Ilidža – Vreoca – Plandište – Vrelo Bosne – Sarajevo Putevi – Blažuj – Mostarsko
                                 Raskršće – Šunji – Binježevo – Donji Hadžići – Pilana – Hadžići – Dupovci – Gradac – Donji
                                 Zovik – Zovik – Dub – Pazarić – Resnik – Osenik – Tarčin Pumpa – Tarčin – Vrbanja – Donja
                                 Raštelica – Raštelica – Džanici – Vukovići</p>
@@ -316,14 +318,14 @@
                 <div class="card">
                     <div class="card-header" id="naslov36">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#nedjariciaerodromsko" aria-expanded="false" aria-controls="nedjariciaerodromsko">
-                                Nedžariči - Aerodromsko Naselje 
+                            <button class="btn" data-toggle="collapse" data-target="#nedjariciaerodromsko" aria-expanded="false" aria-controls="nedjariciaerodromsko">
+                                <p class= "card-text" >Nedžarići - Aerodromsko Naselje </p>
                             </button>
                         </h5>
                     </div>
                     <div id="nedjariciaerodromsko" class="collapse" aria-labelledby="naslov36" data-parent="#accordion">
                         <div class="card-body">
-                            <p>Ruta: Nedžariči – Dom Staraca – Raskršče – Aerodromsko naselje</p>
+                            <p>Ruta: Nedžarići – Dom Staraca – Raskršće – Aerodromsko Naselje</p>
                             <a href="/files/linije/nedzarici_aerodromskonaselje.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
                             
                         </div>
@@ -333,14 +335,14 @@
                 <div class="card">
                     <div class="card-header" id="naslov39">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#nedjaricidobrinjaiv" aria-expanded="false" aria-controls="nedjaricidobrinjaiv">
-                                Nedžariči - Dobrinja IV 
+                            <button class="btn" data-toggle="collapse" data-target="#nedjaricidobrinjaiv" aria-expanded="false" aria-controls="nedjaricidobrinjaiv">
+                                <p class= "card-text" >Nedžarići - Dobrinja IV </p>
                             </button>
                         </h5>
                     </div>
                     <div id="nedjaricidobrinjaiv" class="collapse" aria-labelledby="naslov39" data-parent="#accordion">
                         <div class="card-body">
-                            <p>Ruta: Nedžaričii– Vojničko Polje – X Transferzala – Dobrinja V – Dobrinja III – Dobrinja IV
+                            <p>Ruta: Nedžarići– Vojničko Polje – X Transferzala – Dobrinja V – Dobrinja III – Dobrinja IV
                                 (Most) – Dobrinja IV</p>
                             <a href="/files/linije/nedzarici_dobrinja4.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
                             
@@ -351,15 +353,15 @@
                 <div class="card">
                     <div class="card-header" id="naslov41a">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#drvenijadonjivelesici" aria-expanded="false" aria-controls="drvenijadonjivelesici">
-                                Drvenija - Donji Velešići 
+                            <button class="btn" data-toggle="collapse" data-target="#drvenijadonjivelesici" aria-expanded="false" aria-controls="drvenijadonjivelesici">
+                                <p class= "card-text" >Drvenija - Donji Velešići </p>
                             </button>
                         </h5>
                     </div>
                     <div id="drvenijadonjivelesici" class="collapse" aria-labelledby="naslov41a" data-parent="#accordion">
                         <div class="card-body">
-                            <p>Ruta:Drvenija – Čobanija – Skenderija – Marijin Dvor – Kranjceviceva – Hlida Kajtaza –
-                                Tehnićki pregled – Slovina – Donji Velešići</p>
+                            <p>Ruta:Drvenija – Čobanija – Skenderija – Marijin Dvor – Kranjčevićeva – Halida Kajtaza –
+                                Tehnički pregled – Slovina – Donji Velešići</p>
                             <a href="/files/linije/drvenija_donjivelesici.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
                             
                         </div>
@@ -369,8 +371,8 @@
                 <div class="card">
                     <div class="card-header" id="naslov44">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#franjerackog" aria-expanded="false" aria-controls="franjerackog">
-                                Franje Rackog - Bjelašnica 
+                            <button class="btn" data-toggle="collapse" data-target="#franjerackog" aria-expanded="false" aria-controls="franjerackog">
+                               <p class= "card-text" >Franje Rackog - Bjelašnica </p>
                             </button>
                         </h5>
                     </div>
@@ -386,8 +388,8 @@
                 <div class="card">
                     <div class="card-header" id="naslov46">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#ilidzavlakovo" aria-expanded="false" aria-controls="ilidzavlakovo">
-                                Ilidža - Vlakovo 
+                            <button class="btn" data-toggle="collapse" data-target="#ilidzavlakovo" aria-expanded="false" aria-controls="ilidzavlakovo">
+                               <p class= "card-text" >Ilidža - Vlakovo </p>
                             </button>
                         </h5>
                     </div>
@@ -407,14 +409,14 @@
                 <div class="card">
                     <div class="card-header" id="naslov15">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#zeljeznickastanicabucapotok15" aria-expanded="false" aria-controls="zeljeznickastanicabucapotok15">
-                                Željeznićka stanica - Buća Potok 
+                            <button class="btn" data-toggle="collapse" data-target="#zeljeznickastanicabucapotok15" aria-expanded="false" aria-controls="zeljeznickastanicabucapotok15">
+                               <p class= "card-text" >Željeznička stanica - Buća Potok </p>
                             </button>
                         </h5>
                     </div>
                     <div id="zeljeznickastanicabucapotok15" class="collapse" aria-labelledby="naslov15" data-parent="#accordion">
                         <div class="card-body">
-                            <p>Ruta:Zeljeznićka stanica – Autobuska stanica – Fabrika Duhana Sarajevo – Drinska –
+                            <p>Ruta:Zeljeznička stanica – Autobuska stanica – Fabrika Duhana Sarajevo – Drinska –
                                 Nadvožnjak – Buća (Rampa) – Zrak – Odžakovići – Stara Okretnica – Vidikovac – Adema
                                 Buće I – Adema Buće II – Deponija – Vaga – Buća Potok</p>
                             <a href="/files/linije/zeljeznickastanica_bucapotok.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
@@ -426,8 +428,8 @@
                 <div class="card">
                     <div class="card-header" id="naslov16">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#domarmijebare" aria-expanded="false" aria-controls="domarmijebare">
-                                Dom Armije - Bare 
+                            <button class="btn" data-toggle="collapse" data-target="#domarmijebare" aria-expanded="false" aria-controls="domarmijebare">
+                               <p class= "card-text" >Dom Armije - Bare </p>
                             </button>
                         </h5>
                     </div>
@@ -444,8 +446,8 @@
                 <div class="card">
                     <div class="card-header" id="naslov17">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#domarmijebreka" aria-expanded="false" aria-controls="domarmijebreka">
-                                Dom Armije - Breka 
+                            <button class="btn " data-toggle="collapse" data-target="#domarmijebreka" aria-expanded="false" aria-controls="domarmijebreka">
+                                <p class= "card-text" >Dom Armije - Breka </p>
                             </button>
                         </h5>
                     </div>
@@ -462,14 +464,14 @@
                 <div class="card">
                     <div class="card-header" id="naslov18">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#drvenijapofalici" aria-expanded="false" aria-controls="drvenijapofalici">
-                                Drvenija - Pofalići 
+                            <button class="btn " data-toggle="collapse" data-target="#drvenijapofalici" aria-expanded="false" aria-controls="drvenijapofalici">
+                                <p class= "card-text" >Drvenija - Pofalići </p> 
                             </button>
                         </h5>
                     </div>
                     <div id="drvenijapofalici" class="collapse" aria-labelledby="naslov18" data-parent="#accordion">
                         <div class="card-body">
-                            <p>Ruta:Drvenija – Ćobanija – Skenderija – Kovačići – Grbavica – Ekonomska škola –
+                            <p>Ruta:Drvenija – Čobanija – Skenderija – Kovačići – Grbavica – Ekonomska škola –
                                 Fabrika Duhana Sarajevo – Vranica – Humska – Donji Pofalići – Pofalići MZ</p>
                             <a href="/files/linije/drvenija_pofalici.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
                             
@@ -480,8 +482,8 @@
                 <div class="card">
                     <div class="card-header" id="naslov20b">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#parkjagomirbusca" aria-expanded="false" aria-controls="parkjagomirbusca">
-                                Park - Jagomir - Bušća 
+                            <button class="btn " data-toggle="collapse" data-target="#parkjagomirbusca" aria-expanded="false" aria-controls="parkjagomirbusca">
+                                <p class= "card-text" >Park - Jagomir - Bušća </p>
                             </button>
                         </h5>
                     </div>
@@ -498,8 +500,8 @@
                 <div class="card">
                     <div class="card-header" id="naslov21">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#sutjeskavogosca" aria-expanded="false" aria-controls="sutjeskavogosca">
-                                Sutjeska - Vogošća (21)
+                            <button class="btn " data-toggle="collapse" data-target="#sutjeskavogosca" aria-expanded="false" aria-controls="sutjeskavogosca">
+                                <p class= "card-text" >Sutjeska - Vogošća  </p>
                             </button>
                         </h5>
                     </div>
@@ -516,8 +518,8 @@
                 <div class="card">
                     <div class="card-header" id="naslov22">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#sutjeskailijasljesevo" aria-expanded="false" aria-controls="sutjeskailijasljesevo">
-                                Sutjeska - Ilijaš - Lješevo
+                            <button class="btn " data-toggle="collapse" data-target="#sutjeskailijasljesevo" aria-expanded="false" aria-controls="sutjeskailijasljesevo">
+                                <p class= "card-text" >Sutjeska - Ilijaš - Lješevo </p>
                             </button>
                         </h5>
                     </div>
@@ -525,7 +527,7 @@
                         <div class="card-body">
                             <p>Ruta: Sutjeska – Ciglane – Stadion Koševo – Bare – Šip – Kobilja Glava – Gornji
                                 Hotonj – Donji Hotonj – Barice – Jošanica – Tas – Bikovo – Vogošća – Donja Jošanica
-                                – Zeljeznićka stanica – Semizovac – Nebočaj – Donja Vogošća – Melešići – Malešići
+                                – Zeljeznička stanica – Semizovac – Nebočaj – Donja Vogošća – Melešići – Malešići
                                 (Most) – Stari Ilijaš – Mlini – Ilijaš (Crkva) – Ilijaš Policija – Ilijaš</p>
                             <a href="/files/linije/sutjeska_ljesevo.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
                             
@@ -536,15 +538,15 @@
                 <div class="card">
                     <div class="card-header" id="naslov23">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#zeljeznickarajlovac" aria-expanded="false" aria-controls="zeljeznickarajlovac">
-                                Željeznićka Stanica - Rajlovac 
+                            <button class="btn " data-toggle="collapse" data-target="#zeljeznickarajlovac" aria-expanded="false" aria-controls="zeljeznickarajlovac">
+                                <p class= "card-text" >Željeznička stanica - Rajlovac </p>
                             </button>
                         </h5>
                     </div>
                     <div id="zeljeznickarajlovac" class="collapse" aria-labelledby="naslov23" data-parent="#accordion">
                         <div class="card-body">
-                            <p>Ruta: Zeljeznićka stanica – Autobuska stanica – Fabrika Duhana Sarajevo – Drinska –
-                                Nadvožnjak – Buća (Rampa) – Sfeta Zajke – Dolačka – Klesar – Boljakov Potok – Gr
+                            <p>Ruta: Zeljeznička stanica – Autobuska stanica – Fabrika Duhana Sarajevo – Drinska –
+                                Nadvožnjak – Buća (Rampa) – Safeta Zajke – Dolačka – Klesar – Boljakov Potok – Gr
                                 Bosna – Elektrotehna – Briješće I – Briješće – Kolonija – Rajlovac</p>
                             <a href="/files/linije/zeljeznicka_rajlovac.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
                             
@@ -555,8 +557,8 @@
                 <div class="card">
                     <div class="card-header" id="naslov23c">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#otokaboljakovpotok" aria-expanded="false" aria-controls="otokaboljakovpotok">
-                                Otoka - Boljakov Potok 
+                            <button class="btn " data-toggle="collapse" data-target="#otokaboljakovpotok" aria-expanded="false" aria-controls="otokaboljakovpotok">
+                                <p class= "card-text" >Otoka - Boljakov Potok </p>
                             </button>
                         </h5>
                     </div>
@@ -573,15 +575,15 @@
                 <div class="card">
                     <div class="card-header" id="naslov26">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#stupahatovici" aria-expanded="false" aria-controls="stupahatovici">
-                                Stup - Dobroševići - Ahatovići 
+                            <button class="btn " data-toggle="collapse" data-target="#stupahatovici" aria-expanded="false" aria-controls="stupahatovici">
+                               <p class= "card-text" >Stup - Dobroševići - Ahatovići </p>
                             </button>
                         </h5>
                     </div>
                     <div id="stupahatovici" class="collapse" aria-labelledby="naslov26" data-parent="#accordion">
                         <div class="card-body">
                             <p>Ruta: Stup – Stup (Centar) – Azići – Bare (Škola) – Bare II – Bare II – Doglodi –
-                                Bojnik – D. Dobrosevići – Dobrosevići</p>
+                                Bojnik – D. Dobroševići – Dobroševići</p>
                             <a href="/files/linije/stup_ahatovici.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
                             
                         </div>
@@ -591,14 +593,14 @@
                 <div class="card">
                     <div class="card-header" id="naslov27a">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#ilidzasokolovickolonija" aria-expanded="false" aria-controls="ilidzasokolovickolonija">
-                                Ilidža - Sokolovi Kolonija 
+                            <button class="btn " data-toggle="collapse" data-target="#ilidzasokolovickolonija" aria-expanded="false" aria-controls="ilidzasokolovickolonija">
+                                <p class= "card-text" >Ilidža - Sokolović Kolonija </p>
                             </button>
                         </h5>
                     </div>
                     <div id="ilidzasokolovickolonija" class="collapse" aria-labelledby="naslov27a" data-parent="#accordion">
                         <div class="card-body">
-                            <p>Ruta: Ilidža – Škola – Stadion – Koledž – Sokolovići – Hafiza Ridzanovića – Huseina Đoze –
+                            <p>Ruta: Ilidža – Škola – Stadion – Koledž – Sokolovići – Hafiza Ridžanovića – Huseina Đoze –
                                 Bjelasnička – Sokolović Kolonija</p>
                             <a href="/files/linije/ilidza_sokolovickolonija.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
                             
@@ -609,14 +611,14 @@
                 <div class="card">
                     <div class="card-header" id="naslov28">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#ilidzakobiljaca" aria-expanded="false" aria-controls="ilidzakobiljaca">
-                                Ilidža - Rakovica - Kobiljača 
+                            <button class="btn " data-toggle="collapse" data-target="#ilidzakobiljaca" aria-expanded="false" aria-controls="ilidzakobiljaca">
+                                <p class= "card-text" >Ilidža - Rakovica - Kobiljača </p>
                             </button>
                         </h5>
                     </div>
                     <div id="ilidzakobiljaca" class="collapse" aria-labelledby="naslov28" data-parent="#accordion">
                         <div class="card-body">
-                            <p>Ruta: Ilidža – Vreoca – PlandiŠte – Vrelo Bosne – Sarajevo putevi – BlaŽuj – Mostarsko
+                            <p>Ruta: Ilidža – Vreoca – Plandište – Vrelo Bosne – Sarajevo putevi – BlaŽuj – Mostarsko
                                 Raskršće – Svjetlost – Gladno Polje – Ciglane – Šamin Gaj – Rakovica – Kobiljača I –
                                 Kobiljača – Zelena Meraja</p>
                             <a href="/files/linije/ilidza_kobiljaca.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
@@ -628,8 +630,8 @@
                 <div class="card">
                     <div class="card-header" id="naslov29">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#sutjeskakamenica" aria-expanded="false" aria-controls="sutjeskakamenica">
-                                Sutjeska - Kamenica 
+                            <button class="btn " data-toggle="collapse" data-target="#sutjeskakamenica" aria-expanded="false" aria-controls="sutjeskakamenica">
+                               <p class= "card-text" >Sutjeska - Kamenica </p>
                             </button>
                         </h5>
                     </div>
@@ -647,8 +649,8 @@
                 <div class="card">
                     <div class="card-header" id="naslov31">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#nedjaricidobrinja" aria-expanded="false" aria-controls="nedjaricidobrinja">
-                                Nedžarići - Dobrinja 
+                            <button class="btn " data-toggle="collapse" data-target="#nedjaricidobrinja" aria-expanded="false" aria-controls="nedjaricidobrinja">
+                                <p class= "card-text" >Nedžarići - Dobrinja </p>
                             </button>
                         </h5>
                     </div>
@@ -665,14 +667,14 @@
                 <div class="card">
                     <div class="card-header" id="naslov32">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#ilidzabutmirkotorac" aria-expanded="false" aria-controls="ilidzabutmirkotorac">
-                                Ilidža - Butmir - Kotorac 
+                            <button class="btn " data-toggle="collapse" data-target="#ilidzabutmirkotorac" aria-expanded="false" aria-controls="ilidzabutmirkotorac">
+                                <p class= "card-text" >Ilidža - Butmir - Kotorac </p>
                             </button>
                         </h5>
                     </div>
                     <div id="ilidzabutmirkotorac" class="collapse" aria-labelledby="naslov32" data-parent="#accordion">
                         <div class="card-body">
-                            <p>Ruta: Ilidža – Burmir I – Butmir II – Butmir – Pologonska</p>
+                            <p>Ruta: Ilidža – Butmir I – Butmir II – Butmir – Poligonska</p>
                             <a href="/files/linije/ilidza_butmir_kotorac.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
                             
                         </div>
@@ -682,8 +684,8 @@
                 <div class="card">
                     <div class="card-header" id="naslov35">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#autobuskastanicabakici" aria-expanded="false" aria-controls="autobuskastanicabakici">
-                                Autobuska stanica - Bakići 
+                            <button class="btn " data-toggle="collapse" data-target="#autobuskastanicabakici" aria-expanded="false" aria-controls="autobuskastanicabakici">
+                               <p class= "card-text" >Autobuska stanica - Bakići </p>
                             </button>
                         </h5>
                     </div>
@@ -691,7 +693,7 @@
                         <div class="card-body">
                             <p>Ruta: Autobuska stanica – Fabrika Duhana Sarajevo – Drinska – Nadvožnjak – Buća (Rampa) –
                                 Safeta Zajke – Dolačka – Klesar – Boljakov Potok – Gr Bosna – Elektrotehna – Briješće I –
-                                Brijšće – Kolonija – Rajlovac – Zabrđe – Reljevo Dvor – Krivoglavci –Željeznićka Stanica –
+                                Briješće – Kolonija – Rajlovac – Zabrđe – Reljevo Dvor – Krivoglavci –Željeznička stanica –
                                 Semizovac – Garež – Podgora – Kamenica – Ljubina – Solakovići – Vidotina – Boksići –
                                 Medojevići – Mosevići – Donji Čevljanovići – Nišići – Duševine – Krivajevići – Ajdinovići –
                                 Bakići</p>
@@ -704,8 +706,8 @@
                 <div class="card">
                     <div class="card-header" id="naslov38">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#dobrinjailidza" aria-expanded="false" aria-controls="dobrinjailidza">
-                                Dobrinja - Ilidža 
+                            <button class="btn " data-toggle="collapse" data-target="#dobrinjailidza" aria-expanded="false" aria-controls="dobrinjailidza">
+                               <p class= "card-text" >Dobrinja - Ilidža </p>
                             </button>
                         </h5>
                     </div>
@@ -722,15 +724,15 @@
                 <div class="card">
                     <div class="card-header" id="naslov41">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#drvenijagornjivelesici" aria-expanded="false" aria-controls="drvenijagornjivelesici">
-                                Drvenija - Gornji Velešići
+                            <button class="btn " data-toggle="collapse" data-target="#drvenijagornjivelesici" aria-expanded="false" aria-controls="drvenijagornjivelesici">
+                                <p class= "card-text" >Drvenija - Gornji Velešići </p>
                             </button>
                         </h5>
                     </div>
                     <div id="drvenijagornjivelesici" class="collapse" aria-labelledby="naslov41" data-parent="#accordion">
                         <div class="card-body">
                             <p>Ruta: Drvenija - Čobanija – Skenderija – Marijin Dvor – Kranjčevićeva – Halida Kajtaza –
-                                Tehnićki pregled – MZ – Gornji Velešići </p>
+                                Tehnički pregled – MZ – Gornji Velešići </p>
                             <a href="/files/linije/drvenija_gornjivelesici.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
                             
                         </div>
@@ -740,14 +742,14 @@
                 <div class="card">
                     <div class="card-header" id="naslov43">
                         <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#ilidzaosjek" aria-expanded="false" aria-controls="ilidzaosjek">
-                                Ilidža - Osjek 
+                            <button class="btn " data-toggle="collapse" data-target="#ilidzaosjek" aria-expanded="false" aria-controls="ilidzaosjek">
+                                <p class= "card-text" >Ilidža - Osjek </p>
                             </button>
                         </h5>
                     </div>
                     <div id="ilidzaosjek" class="collapse" aria-labelledby="naslov43" data-parent="#accordion">
                         <div class="card-body">
-                            <p>Ruta: Ilidža – Vreoca – Plandište – Tukovi – Kamenjača – Dom – Drage Filipovica – Osjek
+                            <p>Ruta: Ilidža – Vreoca – Plandište – Tukovi – Kamenjača – Dom – Drage Filipovića – Osjek
                                 (stara okretnica) – Hendekuša – Hendekuša II – Hendekuša (okretnica)</p>
                             <a href="/files/linije/ilidza_osjek.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
                             

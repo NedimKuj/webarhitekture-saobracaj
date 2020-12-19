@@ -14,6 +14,7 @@
 
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="/css/global-styles.css">
+    <link rel="stylesheet" href="/css/tramvajski-style.css">
 
     <!-- Material Design Bootstrap CSS -->
     <link rel="stylesheet" href="/css/mdb.min.css">
@@ -33,7 +34,7 @@
 
     <div class="historijski-razvoj">
         <div class="col-lg-8 mx-auto">
-            <h2>Historijski razvoj tramvajskog saobracaja u Sarajevu</h2>
+            <h2>Historijski razvoj tramvajskog saobraćaja u Sarajevu</h2>
                 <p>Prvi tramvaj kog su vukli konji prošao je Sarajevom 1. januara 1885. godine. Jednosmjerna trasa je bila duga 3,1 km, a pruga je počinjala od današnjeg Ekonomskog fakulteta, pružala se Ferhadijom i dalje glavnom gradskom ulicom (današnjom Titovom) preko Marindvora i završavala na Uzanoj željezničkoj stanici.  Tramvaj je mogao povesti 28 osoba. 1. maja 1895. godine je elektriziran. Ujedno je trasa tramvaja proširena, te je od željezničke stanice na Pofalićima, koja se tada nalazila kod današnjeg hotela Bristol, pa do Latinske ćuprije. 
                 </p>
         </div>
@@ -41,7 +42,7 @@
     
     <div class="tramvajskelinije">
         <div class="col-lg-8 mx-auto">
-            <h2>Mreža tramvajskog sobraćaja sastoji se od 27 stanica, sa ukupno šest linija:</h2>
+            <h2>Mreža tramvajskog saobraćaja sastoji se od 27 stanica, sa ukupno šest linija:</h2>
         </div>
     </div>
 
@@ -51,15 +52,15 @@
             <div class="card">
                 <div class="card-header" id="naslov1">
                     <h5 class="mb-0">
-                        <button class="btn btn-link" data-toggle="collapse" data-target="#bascarsija-zeljeznickastanica" aria-expanded="true" aria-controls="bascarsija-zeljeznickastanica">
-                            Bascarsija – Zeljeznicka Stanica 
+                        <button class="btn " data-toggle="collapse" data-target="#bascarsija-zeljeznickastanica" aria-expanded="true" aria-controls="bascarsija-zeljeznickastanica">
+                        <p class= "card-text" > Baščaršija – Željeznička stanica </P>
                         </button>
                     </h5>
                 </div>
 
                 <div id="bascarsija-zeljeznickastanica" class="collapse" aria-labelledby="naslov1" data-parent="#accordion">
                     <div class="card-body">
-                        <p>Ruta: Bascarsija – Katedrala – Banka – Park – Marijin Dvor – Muzeji – Tehnicka Skola – Zeljeznicka Stanica </p>
+                        <p>Ruta: Baščaršija – Katedrala – Banka – Park – Marijin Dvor – Muzeji – Tehnička škola – Željeznička stanica </p>
 
                         <a href="/files/linije/bascarsija-zeljeznickastanica.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
                     </div>
@@ -69,14 +70,14 @@
             <div class="card">
                 <div class="card-header" id="naslov2">
                     <h5 class="mb-0">
-                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#bascarsija-cengicvila" aria-expanded="false" aria-controls="bascarsija-cengicvila">
-                            Bascarsija – Cengic Vila 
+                        <button class="btn " data-toggle="collapse" data-target="#bascarsija-cengicvila" aria-expanded="false" aria-controls="bascarsija-cengicvila">
+                            <p class= "card-text" > Baščaršija – Čengić Vila </p>
                         </button>
                     </h5>
                 </div>
                 <div id="bascarsija-cengicvila" class="collapse" aria-labelledby="naslov2" data-parent="#accordion">
                     <div class="card-body">
-                        <p>Ruta: Bascarsija – Katedrala – Banka – Park – Marijin Dvor – Muzeji – Univerzitet – Pofalici – Socijalno – Dolac Malta – Cengic Vila</p>
+                        <p>Ruta: Baščaršija – Katedrala – Banka – Park – Marijin Dvor – Muzeji – Univerzitet – Pofalići – Socijalno – Dolac Malta – Čengić Vila</p>
 
                         <a href="/files/linije/bascarsija-cengicvila.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
                     </div>
@@ -86,14 +87,14 @@
             <div class="card">
                 <div class="card-header" id="naslov3">
                     <h5 class="mb-0">
-                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#bascarsija-ilidza" aria-expanded="false" aria-controls="bascarsija-ilidza">
-                            Bascarsija – Ilidza 
+                        <button class="btn b" data-toggle="collapse" data-target="#bascarsija-ilidza" aria-expanded="false" aria-controls="bascarsija-ilidza">
+                            <p class= "card-text" > Baščaršija – Ilidža </p>
                         </button>
                     </h5>
                 </div>
                 <div id="bascarsija-ilidza" class="collapse" aria-labelledby="naslov3" data-parent="#accordion">
                     <div class="card-body">
-                        <p>Ruta: Bascarsija – Katedrala – Banka – Park – Marijin Dvor – Muzeji – Univerzitet – Pofalici – Socijalno – Dolac Malta – Cengic Vila – Otoka – Alipasin Most – Nedzarici – Avaz/Oslobodjenje – Stup – Energoinvest – Kasindolska – Ilidza</p>
+                        <p>Ruta: Baščaršija – Katedrala – Banka – Park – Marijin Dvor – Muzeji – Univerzitet – Pofalići – Socijalno – Dolac Malta – Čengić Vila – Otoka – Alipašin Most – Nedžarići – Avaz/Oslobodjenje – Stup – Energoinvest – Kasindolska – Ilidža</p>
 
                         <a href="/files/linije/bascarsija-ilidza.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
                     </div>
@@ -103,14 +104,14 @@
             <div class="card">
                 <div class="card-header" id="naslov4">
                     <h5 class="mb-0">
-                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#zeljeznickastanica-ilidza" aria-expanded="false" aria-controls="zeljeznickastanica-ilidza">
-                            Zeljeznicka stanica – Ilidza
+                        <button class="btn " data-toggle="collapse" data-target="#zeljeznickastanica-ilidza" aria-expanded="false" aria-controls="zeljeznickastanica-ilidza">
+                           <p class= "card-text" > Željeznička stanica – Ilidža </p>
                         </button>
                     </h5>
                 </div>
                 <div id="zeljeznickastanica-ilidza" class="collapse" aria-labelledby="naslov4" data-parent="#accordion">
                     <div class="card-body">
-                        <p>Ruta: Zeljeznicka stanica – Tehnicka Skola - Univerzitet – Pofalici – Socijalno – Dolac Malta – Cengic Vila – Otoka – Alipasin Most – Nedzarici – Avaz/Oslobodjenje – Stup – Energoinvest – Kasindolska – Ilidza</p>
+                        <p>Ruta: Željeznička stanica – Tehnička škola - Univerzitet – Pofalići – Socijalno – Dolac Malta – Čengić Vila – Otoka – Alipašin Most – Nedžarići – Avaz/Oslobodjenje – Stup – Energoinvest – Kasindolska – Ilidža</p>
 
                         <a href="/files/linije/zeljeznickastanica-ilidza.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
                     </div>
@@ -120,14 +121,14 @@
             <div class="card">
                 <div class="card-header" id="naslov5">
                     <h5 class="mb-0">
-                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#bascarsija-nedzarici" aria-expanded="false" aria-controls="bascarsija-nedzarici">
-                            Bascarsija – Nedzarici 
+                        <button class="btn " data-toggle="collapse" data-target="#bascarsija-nedzarici" aria-expanded="false" aria-controls="bascarsija-nedzarici">
+                            <p class= "card-text" > Baščaršija – Nedžarići 
                         </button>
                     </h5>
                 </div>
                 <div id="bascarsija-nedzarici" class="collapse" aria-labelledby="naslov5" data-parent="#accordion">
                     <div class="card-body">
-                        <p>Ruta: Bascarsija – Katedrala – Banka – Park – Marijin Dvor – Muzeji – Univerzitet – Pofalici – Socijalno – Dolac Malta – Cengic Vila – Otoka – Alipasin Most – Nedzarici</p>
+                        <p>Ruta: Baščaršija – Katedrala – Banka – Park – Marijin Dvor – Muzeji – Univerzitet – Pofalići – Socijalno – Dolac Malta – Čengić Vila – Otoka – Alipašin Most – Nedžarići</p>
 
                         <a href="/files/linije/bascarsija-nedzarici.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
                     </div>
@@ -137,14 +138,14 @@
             <div class="card">
                 <div class="card-header" id="naslov6">
                     <h5 class="mb-0">
-                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#skenderija-ilidza" aria-expanded="false" aria-controls="skenderija-ilidza">
-                            Skenderija – Ilidza 
+                        <button class="btn " data-toggle="collapse" data-target="#skenderija-ilidza" aria-expanded="false" aria-controls="skenderija-ilidza">
+                            <p class= "card-text" > Skenderija – Ilidža </p>
                         </button>
                     </h5>
                 </div>
                 <div id="skenderija-ilidza" class="collapse" aria-labelledby="naslov6" data-parent="#accordion">
                     <div class="card-body">
-                        <p>Ruta: Hamza Hume – Marijin Dvor – Muzeji – Univerzitet - Pofalici – Socijalno – Dolac Malta – Cengic Vila – Otoka – Alipasin Most – Nedzarici – Avaz/Oslobodjenje – Stup – Energoinvest – Kasindolska – Ilidza</p>
+                        <p>Ruta: Hamza Hume – Marijin Dvor – Muzeji – Univerzitet - Pofalići – Socijalno – Dolac Malta – Čengić Vila – Otoka – Alipašin Most – Nedžarići – Avaz/Oslobodjenje – Stup – Energoinvest – Kasindolska – Ilidža</p>
 
                         <a href="/files/linije/skenderija-ilidza.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a>
                     </div>

@@ -1,3 +1,4 @@
+
   /* Regular (desktop) navigation */
   nav {
     background-color: #172a38;
@@ -8,7 +9,7 @@
   }
   
   nav li a:hover {
-    color: #fff
+    color: #b8b4b2
   }
 
 /* The Overlay menu*/
@@ -40,7 +41,7 @@
     padding: 8px;
     text-decoration: none;
     font-size: 36px;
-    color: #f4ce9e;
+    color: #172a38;
     display: block; /* Display block instead of inline */
     transition: 0.3s; /* Transition effects on hover (color) */
   }

@@ -14,6 +14,7 @@
 
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="/css/global-styles.css">
+    <link rel="stylesheet" href="/css/trolejbuski-style.css">
 
     <!-- Material Design Bootstrap CSS -->
     <link rel="stylesheet" href="/css/mdb.min.css">
@@ -34,7 +35,7 @@
     
     <div class="Trolejbuskelinije">
         <div class="col-lg-8 mx-auto">
-            <h2>Mreža trolejbuskog sobraćaja sastoji se od 30 stanica, sa ukupno šest linija:</h2>
+            <h2>Mreža trolejbuskog saobraćaja sastoji se od 30 stanica, sa ukupno šest linija:</h2>
             <p>Trolejbuska mreža u Sarajevu je otvorena 1984. godine, čime je upotpunila, pored tramvajske mreže gradski promet u gradu.</p>
         </div>
     </div>
@@ -45,16 +46,16 @@
             <div class="card">
                 <div class="card-header" id="naslov101">
                     <h5 class="mb-0">
-                        <button class="btn btn-link" data-toggle="collapse" data-target="#trgaustrije-otoka"
+                        <button class="btn " data-toggle="collapse" data-target="#trgaustrije-otoka"
                             aria-expanded="true" aria-controls="trgaustrije-otoka">
-                            Trg Austrije – Otoka 
+                              <p class= "card-text" > Trg Austrije – Otoka </p>
                         </button>
                     </h5>
                 </div>
 
                 <div id="trgaustrije-otoka" class="collapse" aria-labelledby="naslov101" data-parent="#accordion">
                     <div class="card-body">
-                        <p>Ruta: Trg Austrije – Drvenija – Cobanija – Skenderija – Marijin Dvor – Grbavica – Stadion Grbavica – Azize Sacirbegovica – Hrasno – Antuna Branka Simica – Otoka</p>
+                        <p>Ruta: Trg Austrije – Drvenija – Čobanija – Skenderija – Marijin Dvor – Grbavica – Stadion Grbavica – Azize Šaćirbegovića – Hrasno – Antuna Branka Šimića – Otoka</p>
 
                         <a href="/files/linije/otoka-trgaustrije.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
                         
@@ -65,15 +66,15 @@
             <div class="card">
                 <div class="card-header" id="naslov102">
                     <h5 class="mb-0">
-                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#otoka–jezero"
+                        <button class="btn b" data-toggle="collapse" data-target="#otoka–jezero"
                             aria-expanded="false" aria-controls="otoka–jezero">
-                            Otoka – Jezero 
+                               <p class= "card-text" > Otoka – Jezero </p>
                         </button>
                     </h5>
                 </div>
                 <div id="otoka–jezero" class="collapse" aria-labelledby="naslov102" data-parent="#accordion">
                     <div class="card-body">
-                        <p>Ruta: Otoka – Antuna Branka Simica – Hrasno – Azize Sacirbegovica – Stadion Grbavica – Grbavica – Marijin Dvor – Skenderija – Hamza Hume – Kino Radnik – Alipasina – Pijaca – Stadion – Jezero</p>
+                        <p>Ruta: Otoka – Antuna Branka Šimića – Hrasno – Azize Šaćirbegovića – Stadion Grbavica – Grbavica – Marijin Dvor – Skenderija – Hamza Hume – Kino Radnik – Alipašina – Pijaca – Stadion – Jezero</p>
                         <a href="/files/linije/otoka-jezero.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
                        
                     </div>
@@ -83,15 +84,15 @@
             <div class="card">
                 <div class="card-header" id="naslov103">
                     <h5 class="mb-0">
-                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#trgaustrije–dobrinja"
+                        <button class="btn " data-toggle="collapse" data-target="#trgaustrije–dobrinja"
                             aria-expanded="false" aria-controls="trgaustrije–dobrinja">
-                            Trg Austrije – Dobrinja 
+                               <p class= "card-text" > Trg Austrije – Dobrinja </p>
                         </button>
                     </h5>
                 </div>
                 <div id="trgaustrije–dobrinja" class="collapse" aria-labelledby="naslov103" data-parent="#accordion">
                     <div class="card-body">
-                        <p>Ruta: Trg Austrije – Drvenija – Cobanija – Skenderija – Marijin Dvor – Grbavica – Stadion Grbavica – Azize Sacirbegovica – Hrasno I – Aneks – Svrakino Selo II – Svrakino Selo I – Alipasino Polje – Mojmilo – Mojmilo II – Dobrinja IV – Dobrinja (Skola) – Trafo – Dobrinja </p>
+                        <p>Ruta: Trg Austrije – Drvenija – Čobanija – Skenderija – Marijin Dvor – Grbavica – Stadion Grbavica – Azize Šaćirbegovića – Hrasno I – Aneks – Švrakino Selo II – Švrakino Selo I – Alipašino Polje – Mojmilo – Mojmilo II – Dobrinja IV – Dobrinja (Skola) – Trafo – Dobrinja </p>
                         <a href="/files/linije/dobrinja-trgaustrije.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
                         
                     </div>
@@ -101,15 +102,15 @@
             <div class="card">
                 <div class="card-header" id="naslov104">
                     <h5 class="mb-0">
-                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#trgaustrije–alipasinopolje"
+                        <button class="btn " data-toggle="collapse" data-target="#trgaustrije–alipasinopolje"
                             aria-expanded="false" aria-controls="trgaustrije–alipasinopolje">
-                            Trg Austrije – Alipasino Polje 
+                               <p class= "card-text" > Trg Austrije – Alipašino Polje </p>
                         </button>
                     </h5>
                 </div>
                 <div id="trgaustrije–alipasinopolje" class="collapse" aria-labelledby="naslov104" data-parent="#accordion">
                     <div class="card-body">
-                        <p>Ruta: Trg Austrije – Drvenija – Cobanija – Skenderija – Marijin Dvor – Grbavica – Stadion Grbavica – Azize Sacirbegovica – Hrasno I – Aneks – Svrakino Selo II – Svrakino Selo I – Alipasino Polje</p>
+                        <p>Ruta: Trg Austrije – Drvenija – Čobanija – Skenderija – Marijin Dvor – Grbavica – Stadion Grbavica – Azize Šaćirbegovića – Hrasno I – Aneks – Švrakino Selo II – Švrakino Selo I – Alipašino Polje</p>
                         <a href="/files/linije/alipasinopolje-trgaustrije.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
                         
                     </div>
@@ -119,15 +120,15 @@
             <div class="card">
                 <div class="card-header" id="naslov107">
                     <h5 class="mb-0">
-                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#dobrinja-jezero"
+                        <button class="btn " data-toggle="collapse" data-target="#dobrinja-jezero"
                             aria-expanded="false" aria-controls="dobrinja-jezero">
-                            Dobrinja – Jezero 
+                               <p class= "card-text" > Dobrinja – Jezero </p>
                         </button>
                     </h5>
                 </div>
                 <div id="dobrinja-jezero" class="collapse" aria-labelledby="naslov107" data-parent="#accordion">
                     <div class="card-body">
-                        <p>Ruta: Dobrinja – Trafo – Dobrinja (Skola) – Dobrinja IV – Mojmilo II – Alipasino Polje – Svrakino Selo I – Svrakino Selo II – Aneks – Hrasno I – Azize Sacirbegovic – Stadion Grbavica -  Grbavica – Marijin Dvor – Skenderija -Hamza Hume – Kino Radnik – Alipasina – Pijaca – Stadion – Jezero </p>
+                        <p>Ruta: Dobrinja – Trafo – Dobrinja (Škola) – Dobrinja IV – Mojmilo II – Alipašino Polje – Švrakino Selo I – Švrakino Selo II – Aneks – Hrasno I – Azize Šaćirbegović – Stadion Grbavica -  Grbavica – Marijin Dvor – Skenderija -Hamza Hume – Kino Radnik – Alipašina – Pijaca – Stadion – Jezero </p>
                         <a href="/files/linije/dobrinja-jezero.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
                         
                     </div>
@@ -137,15 +138,15 @@
             <div class="card">
                 <div class="card-header" id="naslov108">
                     <h5 class="mb-0">
-                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#otoka-dobrinja"
+                        <button class="btn " data-toggle="collapse" data-target="#otoka-dobrinja"
                             aria-expanded="false" aria-controls="otoka-dobrinja">
-                            Otoka – Dobrinja 
+                               <p class= "card-text" > Otoka – Dobrinja </p>
                         </button>
                     </h5>
                 </div>
                 <div id="otoka-dobrinja" class="collapse" aria-labelledby="naslov108" data-parent="#accordion">
                     <div class="card-body">
-                        <p>Ruta: Otoka – Antuna Branka Simica – Hrasno – Azize Sacirbegovic – Hrasno I – Aneks – Svrakino Selo II -  Svrakino Selo I – Alipasino Polje – Mojmilo – Mojmilo II – Dobrinja V – Dobrinja (Skola) – Trafo – Dobrinja </p>
+                        <p>Ruta: Otoka – Antuna Branka Šimića – Hrasno – Azize Šaćirbegović – Hrasno I – Aneks – Švrakino Selo II -  Švrakino Selo I – Alipašino Polje – Mojmilo – Mojmilo II – Dobrinja V – Dobrinja (Škola) – Trafo – Dobrinja </p>
                         <a href="/files/linije/otoka-dobrinja.pdf"><i class="fas fa-file-pdf"></i> Preuzmi vozni red (GRAS)</a><br>
                         
                     </div>
