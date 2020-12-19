@@ -56,7 +56,7 @@
             <div class="h-100 d-flex flex-column justify-content-center align-items-center text-center">
               <a href="novosti"><i class="fas fa-4x fa-address-card p-3 tm-welcome-icon"></i></a>
               <p>
-                 Novosti
+                 Stanje na putevima
               </p>
             </div>
           </div>

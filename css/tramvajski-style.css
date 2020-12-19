@@ -1,0 +1,26 @@
+.historijski-razvoj {
+    text-align: center;
+}
+
+.tramvajskelinije {
+    align-items: center;
+    text-align: center;
+}
+
+.card {
+    background-color:#f4ce9e;
+    align-items: center;
+
+    
+}
+
+.card-text {
+    color:#f4ce9e;
+    text-align: center;
+    font-weight: bold;
+}
+
+.btn {
+    background-color: #172a38;
+}
+ 

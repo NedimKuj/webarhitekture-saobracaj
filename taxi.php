@@ -14,6 +14,7 @@
 
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="/css/global-styles.css">
+    <link rel="stylesheet" href="/css/taxi-style.css">
 
     <!-- Material Design Bootstrap CSS -->
     <link rel="stylesheet" href="/css/mdb.min.css">
@@ -52,9 +53,9 @@
             <div class="card">
                 <div class="card-header" id="taxi1">
                     <h5 class="mb-0">
-                        <button class="btn btn-link" data-toggle="collapse" data-target="#bosstaxi"
+                        <button class="btn " data-toggle="collapse" data-target="#bosstaxi"
                             aria-expanded="true" aria-controls="bosstaxi">
-                            Boss Taxi
+                               <p class= "card-text" >Boss Taxi </p>
                         </button>
                     </h5>
                 </div>
@@ -71,9 +72,9 @@
             <div class="card">
                 <div class="card-header" id="taxi2">
                     <h5 class="mb-0">
-                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#crvenitaxi"
+                        <button class="btn " data-toggle="collapse" data-target="#crvenitaxi"
                             aria-expanded="false" aria-controls="crvenitaxi">
-                            Crveni Taxi
+                               <p class= "card-text" >Crveni Taxi </p>
                         </button>
                     </h5>
                 </div>
@@ -89,9 +90,9 @@
             <div class="card">
                 <div class="card-header" id="taxi3">
                     <h5 class="mb-0">
-                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#kaletaxi"
+                        <button class="btn " data-toggle="collapse" data-target="#kaletaxi"
                             aria-expanded="false" aria-controls="kaletaxi">
-                            Kale Taxi
+                               <p class= "card-text" >Kale Taxi </p>
                         </button>
                     </h5>
                 </div>
@@ -106,9 +107,9 @@
             <div class="card">
                 <div class="card-header" id="taxi4">
                     <h5 class="mb-0">
-                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#pajataxi"
+                        <button class="btn " data-toggle="collapse" data-target="#pajataxi"
                         aria-expanded="false" aria-controls="pajataxi">
-                        Paja taxi
+                           <p class= "card-text" >Paja taxi </p>
                     </button>
                     </h5>
                 </div>
@@ -123,9 +124,9 @@
             <div class="card">
                 <div class="card-header" id="taxi5">
                     <h5 class="mb-0">
-                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#samiriemirtaxi"
+                        <button class="btn " data-toggle="collapse" data-target="#samiriemirtaxi"
                         aria-expanded="false" aria-controls="samiriemirtaxi">
-                        Samir i Emir Taxi
+                           <p class= "card-text" >Samir i Emir Taxi </p>
                     </button>
                     </h5>
                 </div>
@@ -140,9 +141,9 @@
             <div class="card">
                 <div class="card-header" id="taxi6">
                     <h5 class="mb-0">
-                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#sarajevotaxi"
+                        <button class="btn " data-toggle="collapse" data-target="#sarajevotaxi"
                         aria-expanded="false" aria-controls="sarajevotaxi">
-                        Sarajevo Taxi
+                           <p class= "card-text" >Sarajevo Taxi </p>
                     </button>
                     </h5>
                 </div>
@@ -157,9 +158,9 @@
             <div class="card">
                 <div class="card-header" id="taxi7">
                     <h5 class="mb-0">
-                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#zutitaxi"
+                        <button class="btn " data-toggle="collapse" data-target="#zutitaxi"
                         aria-expanded="false" aria-controls="zutitaxi">
-                        Žuti taxi
+                           <p class= "card-text" >Žuti taxi </p>
                     </button>
                     </h5>
                 </div>
@@ -174,9 +175,9 @@
             <div class="card">
                 <div class="card-header" id="taxi8">
                     <h5 class="mb-0">
-                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#holandtaxi"
+                        <button class="btn " data-toggle="collapse" data-target="#holandtaxi"
                         aria-expanded="false" aria-controls="holandtaxi">
-                        Holand Taxi
+                           <p class= "card-text" >Holand Taxi </p>
                     </button>
                     </h5>
                 </div>
@@ -191,9 +192,9 @@
             <div class="card">
                 <div class="card-header" id="taxi9">
                     <h5 class="mb-0">
-                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#adinbenjotaxi"
+                        <button class="btn " data-toggle="collapse" data-target="#adinbenjotaxi"
                         aria-expanded="false" aria-controls="adinbenjotaxi">
-                        Adin Benjo Taxi
+                           <p class= "card-text" >Adin Benjo Taxi </p>
                     </button>
                     </h5>
                 </div>
@@ -208,9 +209,9 @@
             <div class="card">
                 <div class="card-header" id="taxi10">
                     <h5 class="mb-0">
-                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#taxiosam"
+                        <button class="btn " data-toggle="collapse" data-target="#taxiosam"
                         aria-expanded="false" aria-controls="taxiosam">
-                        Taxi 8 
+                           <p class= "card-text" >Taxi 8 </p>
                     </button>
                     </h5>
                 </div>
