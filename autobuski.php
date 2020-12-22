@@ -25,7 +25,7 @@
 
 </head>
 
-<body id="page-top">
+<body>
 
     <!-- Navigation -->
     <?php include "common/navbar.html"; ?>
