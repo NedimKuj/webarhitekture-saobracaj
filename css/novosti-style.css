@@ -2,6 +2,7 @@ body {
     background-color: #f4ce9e;
     color: #cfd3d6;
 }
+
 .card {
     background-color: #172a38;
     color: #f4ce9e;
@@ -9,7 +10,8 @@ body {
 
 .btn {
     background-color:#f4ce9e;
+}
+
+a span{
     color: #172a38;
-    text-align: center;
-    display: flex;
 }

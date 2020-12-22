@@ -29,7 +29,7 @@
 
     <header class="bg-primary text-white" style="background-image: url('/files/images/trolejbus.png'); background-size:cover">
         <div class="container text-center">
-            <h1>Trolejbuski saobracaj</h1>
+            <h1>Trolejbuski saobraćaj</h1>
         </div>
     </header>
     

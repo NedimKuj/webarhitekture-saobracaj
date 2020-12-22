@@ -4,11 +4,11 @@ html {
 }
 
 /* ovo je za providni background  */
-.tm-bg-black-transparent {
+.bg-black-transparent {
   background-color: rgba(244, 206, 158, 0.5);
 } 
 
-.tm-bg-white-transparent {
+.bg-white-transparent {
   background-color: rgba(252, 214, 170, 0.8);
 } 
 
@@ -16,27 +16,27 @@ html {
 /*
   Welcome section-prvi dio stranice
 */
-#tmWelcome {
+#welcomeSection {
   position: relative;
   display: flex;
   align-items: center;
   color: #172a38;
 }
 
-.tm-brand-container-outer {
+.brand-container-outer {
   margin-top: -400px;
 } 
 
-.tm-brand-container {
+.brand-container {
   padding: 35px 110px;
 }
 
-.tm-brand-name {
+.brand-name {
   font-size: 3.8rem;
   color: #172a38
 }
 
-.tm-brand-description {
+.brand-description {
   font-size: 1.4rem;
   color: #172a38
 }
@@ -52,11 +52,11 @@ html {
   margin-top: 30vh;
 }
 
-#tmContact {
+#trafficSection {
   min-height: 1197px;
 }
 
-.tm-welcome-container {
+.welcome-container {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -65,11 +65,11 @@ html {
   align-items: stretch;
 }
 
-.tm-welcome-title {
+.welcome-title {
   margin-bottom: 50px;
 }
 
-.tm-welcome-left {
+.welcome-left {
   color:#172a38;
   padding-right: 30px;
   padding-top: 50px;
@@ -77,24 +77,24 @@ html {
   font-weight: bold;
 }
 
-.tm-welcome-left-col {
+.welcome-left-col {
   display: flex;
   align-items: center;
 }
 
-.tm-welcome-right {
+.welcome-right {
   color:#172a38;
   font-weight: bold;
   padding-right: 10px;
 }
 
-.tm-welcome-right-col {
+.welcome-right-col {
   display: flex;
   align-items: center;
   text-align: center;
 }
 
-.tm-welcome-icon {
+.welcome-icon {
   display: block;
   text-align: center;
   display: flex;
@@ -103,33 +103,30 @@ html {
 }
 
 
-/*
-  Contact section
-*/
 
-#tmContact {
+#trafficSection {
   padding-top: 95px;
 }
 
-.tm-contact-item {
+.traffic-item {
   background-color: #f4ce9e;
   color: #172a38;
   margin: 12px;
   padding: 24px;
 }
 
-.tm-contact-item:last-child {
+.traffic-item:last-child {
   margin-right: 0;
 }
 
 
-.tm-contact-items-container {
+.traffic-items-container {
   display: flex;
   justify-content: space-between;
   margin-bottom: 100px;
 }
 
-.tm-contact-item-icon {
+.traffic-item-icon {
   margin-bottom: 10px;
   width: 100%;
   height: 160px;
@@ -141,17 +138,17 @@ html {
 
 
 @media (max-width: 1054px) {
-  .tm-contact-item-icon {
+  .traffic-item-icon {
     margin-bottom: 15px;
   }
 }
 
 @media (max-width: 991px) {
-  .tm-contact-items-container {
+  .traffic-items-container {
     flex-direction: column;
   }
 
-  .tm-contact-item {
+  .traffic-item {
     width: auto;
     max-width: 680px;
     min-height: 0;
@@ -160,7 +157,7 @@ html {
     margin-bottom: 30px;
   }
 
-  .tm-contact-item:last-child {
+  .traffic-item:last-child {
     margin-right: auto;
     margin-bottom: 0;
   }

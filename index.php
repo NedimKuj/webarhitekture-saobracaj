@@ -27,26 +27,26 @@
   <?php include "common/navbar.html"; ?>
 
   <!-- Content -->
-  <section id="tmWelcome" class="parallax-window" data-parallax="scroll" data-image-src="files/images/sarajevo.jpg">
+  <section id="welcomeSection" class="parallax-window" data-parallax="scroll" data-image-src="files/images/sarajevo.jpg">
     <div class="container overflow-hidden viewport-match">
       <div class="row h-100 head-container">
         <div class="col-12">
           <div class="ml-auto text-white">
             <div class="container text-center">
-              <h1 class="tm-brand-name mb-0">SAobraćaj.ba</h1>
-              <p class="tm-brand-description mb-0">Svi putevi vode u Sarajevo</p>
+              <h1 class="brand-name mb-0">SAobraćaj.ba</h1>
+              <p class="brand-description mb-0">Svi putevi vode u Sarajevo</p>
             </div>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="tm-bg-white-transparent tm-welcome-container">
+    <div class="bg-white-transparent welcome-container">
       <div class="container">
         <div class="row container">
-          <div class="tm-welcome-center col-md-10">
-            <div class="tm-welcome-left">
-              <h2 class="tm-welcome-title">Dobro došli na našu stranicu!</h2>
+          <div class="welcome-center col-md-10">
+            <div class="welcome-left">
+              <h2 class="welcome-title">Dobro došli na našu stranicu!</h2>
               <p>
                 Na našoj stranici možete pronaći sve potrebne informacije vezane za saobraćaj u najljepšem gradu. Uživajte!</p>
             </div>
@@ -54,7 +54,7 @@
 
           <div class="col-md-2">
             <div class="h-100 d-flex flex-column justify-content-center align-items-center text-center">
-              <a href="novosti"><i class="fas fa-4x fa-address-card p-3 tm-welcome-icon"></i></a>
+              <a href="novosti"><i class="fas fa-4x fa-address-card p-3 welcome-icon"></i></a>
               <p>
                  Stanje na putevima
               </p>
@@ -65,26 +65,26 @@
     </div>
   </section>
 
-  <div id="tmContact" class="parallax-window" data-parallax="scroll" data-image-src="/files/images/saobracaj.jpg">
+  <div id="trafficSection" class="parallax-window" data-parallax="scroll" data-image-src="/files/images/saobracaj.jpg">
     <div class="container">
       <div class="row">
-        <div class="tm-contact-items-container">
-            <div class="tm-contact-item col-md-4 w-100 d-flex flex-column justify-content-center align-items-center text-center">
-              <i class="fas fa-5x fa-car tm-contact-item-icon"></i>
+        <div class="traffic-items-container">
+            <div class="traffic-item col-md-4 w-100 d-flex flex-column justify-content-center align-items-center text-center">
+              <i class="fas fa-5x fa-car traffic-item-icon"></i>
               <p class="mb-0">
                 Sarajevo je prvi grad u Bosni i Hercegovini po broju registrovanih vozila i on iznosi blizu 150 000.
               </p>
             </div>
 
-            <div class="tm-contact-item col-md-4 w-100 d-flex flex-column justify-content-center align-items-center text-center">
-              <i class="fas fa-5x fa-plane tm-contact-item-icon"></i>
+            <div class="traffic-item col-md-4 w-100 d-flex flex-column justify-content-center align-items-center text-center">
+              <i class="fas fa-5x fa-plane traffic-item-icon"></i>
               <p class="mb-0">
                 Aerodrom u Sarajevu koristi 20 aviokompanija. BiH je nekada imala i svoju aviokompaniju (prvo BH Airlines pa FlyBosnia). 
               </p>
             </div>
 
-            <div class="tm-contact-item col-md-4 w-100 d-flex flex-column justify-content-center align-items-center text-center">
-              <i class="fas fa-5x fa-tram tm-contact-item-icon"></i>
+            <div class="traffic-item col-md-4 w-100 d-flex flex-column justify-content-center align-items-center text-center">
+              <i class="fas fa-5x fa-tram traffic-item-icon"></i>
               <p class="mb-0">
                 Željeznička stanica u Sarajevu otvorena je u proljeće 1953. godine. I dan danas radi punom snagom, povezujući gradove BiH.
               </p>
@@ -93,6 +93,7 @@
       </div>
     </div>
   </div>
+
 
 
   <!-- Footer -->

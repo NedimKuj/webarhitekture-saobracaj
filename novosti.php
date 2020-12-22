@@ -44,7 +44,7 @@
                         <h5 class="card-title">Dogovorene konkretne aktivnosti u vezi projektovanja vogošćanske dionice Prve transverzale</h5>
                         <p class="card-text">11.12.2020. godine</p>
                         <p class="card-text">Na inicijativu načelnika Općine Vogošća Edina Smajića, danas je održan tematski sastanak koordinacionog tijela za gradnju Prve transverzale, pod kopredsjedavanjem premijera Kantona Sarajevo Marija Nenadića i ministra saobraćaja KS Adija Kalema.</p>
-                        <a href="https://ms.ks.gov.ba/aktuelno/novosti-sa-vlade/dogovorene-konkretne-aktivnosti-u-vezi-projektovanja-vogoscanske-dionice-prve-transverzale" class="btn " target="_new">MS KS</a>
+                        <a href="https://ms.ks.gov.ba/aktuelno/novosti-sa-vlade/dogovorene-konkretne-aktivnosti-u-vezi-projektovanja-vogoscanske-dionice-prve-transverzale" class="btn d-flex justify-content-center" target="_new"><span>MS KS</span></a>
                     </div>
                 </div>
                 <br>
@@ -56,7 +56,7 @@
                         <h5 class="card-title">Radovi na cestovnom pravcu Ravno – Trnčina – Hutovo odvijaju se punom parom</h5>
                         <p class="card-text">2.12.2020. godine</p>
                         <p class="card-text">Radovi na cesti Velja Međa – Trnčina odvijaju se punom parom, a radi se o cestovnom pravcu Ravno – Trnčina – Hutovo, koji se dalje veže na magistralnu cestu Neum – Stolac i od iznimnog je saobraćajnog i privrednog značaja.</p>
-                        <a href="https://www.klix.ba/biznis/investicije/radovi-na-cestovnom-pravcu-ravno-trncina-hutovo-odvijaju-se-punom-parom/201201151" class="btn " target="_new">Klix</a>
+                        <a href="https://www.klix.ba/biznis/investicije/radovi-na-cestovnom-pravcu-ravno-trncina-hutovo-odvijaju-se-punom-parom/201201151" class="btn d-flex justify-content-center" target="_new"><span>Klix</span></a>
                     </div>
                 </div>
                 <br>
@@ -68,7 +68,7 @@
                         <h5 class="card-title">BiH zaradila više od 76 miliona KM kontrolišući svoje nebo</h5>
                         <p class="card-text">26.11.2020. godine</p>
                         <p class="card-text">Vijeće ministara BiH je, na prijedlog Ministarstva komunikacija i transporta BiH, donijelo Odluku o raspoređivanju prihoda ostvarenih po osnovu pružanja usluga u vazdušnoj plovidbi (rutne naknade) u vazdušnom prostoru BiH za 2020. godinu.</p>
-                        <a href="https://www.klix.ba/biznis/bih-zaradila-vise-od-76-miliona-km-kontrolisuci-svoje-nebo/201126119" class="btn " target="_new">Klix</a>
+                        <a href="https://www.klix.ba/biznis/bih-zaradila-vise-od-76-miliona-km-kontrolisuci-svoje-nebo/201126119" class="btn d-flex justify-content-center" target="_new"><span>Klix</span></a>
                     </div>
                 </div>
                 <br>
@@ -83,7 +83,7 @@
                         <h5 class="card-title">Nakon 2,5 godine izabran graditelj posljednje dionice Sarajevske zaobilaznice</h5>
                         <p class="card-text">11.11.2020. godine</p>
                         <p class="card-text">Posljednja dionica Sarajevske zaobilaznice između Mostarskog raskršća i Vlakova po treći put je dobila svog izvođača radova.</p>
-                        <a href="https://www.klix.ba/biznis/nakon-2-5-godine-izabran-graditelj-posljednje-dionice-sarajevske-zaobilaznice/201111057" class="btn " target="_new">Klix</a>
+                        <a href="https://www.klix.ba/biznis/nakon-2-5-godine-izabran-graditelj-posljednje-dionice-sarajevske-zaobilaznice/201111057" class="btn d-flex justify-content-center" target="_new"><span>Klix</span></a>
                     </div>
                 </div>
                 <br>
@@ -95,7 +95,7 @@
                         <h5 class="card-title">Nova regulacija saobraćaja u Sarajevu</h5>
                         <p class="card-text">9.10.2020. godine</p>
                         <p class="card-text">Radi bolje organizacije saobraćaja tokom izvođenja radova na sanaciji tramvajske pruge - dionica "S" krivina - tramvajsko stajalište "Marijin Dvor", Ministarstvo saobraćaja obavijestilo je građane Kantona Sarajevo da je u predstojećim danima vikenda odredilo novu regulaciju saobraćaja u blizini tog lokaliteta.</p>
-                        <a href="http://ba.n1info.com/Vijesti/a477349/Nova-regulacija-saobracaja-u-Sarajevu.html" class="btn " target="_new">N1</a>
+                        <a href="http://ba.n1info.com/Vijesti/a477349/Nova-regulacija-saobracaja-u-Sarajevu.html" class="btn d-flex justify-content-center" target="_new"><span>N1 BA</span></a>
                     </div>
                 </div>
                 <br>
@@ -108,7 +108,7 @@
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">1.1.1970.</p>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="#" class="btn d-flex justify-content-center">Go somewhere</a>
                     </div>
                 </div>
                 <br>
